@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "nodes": [
+      { "data": { "id": "text_analysis", "label": "Анализ текста" } },
+      { "data": { "id": "noun_phrase", "label": "Именная группа" } },
+      { "data": { "id": "verb_phrase", "label": "Глагольная группа" } },
+      { "data": { "id": "dependency", "label": "Зависимость" } },
+      { "data": { "id": "object", "label": "Объект" } },
+      { "data": { "id": "subject", "label": "Субъект" } }
+    ],
+    "edges": [
+      { "data": { "source": "text_analysis", "target": "noun_phrase", "label": "содержит" } },
+      { "data": { "source": "text_analysis", "target": "verb_phrase", "label": "содержит" } },
+      { "data": { "source": "noun_phrase", "target": "subject", "label": "является" } },
+      { "data": { "source": "verb_phrase", "target": "dependency", "label": "определяет" } },
+      { "data": { "source": "dependency", "target": "object", "label": "ведет к" } }
+    ]
+  }
+}
