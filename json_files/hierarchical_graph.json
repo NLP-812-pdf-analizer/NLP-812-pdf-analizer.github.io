@@ -1,0 +1,6789 @@
+{
+  "graph": [
+    {
+      "source": "industry",
+      "relation": "has_part",
+      "target": "development"
+    },
+    {
+      "source": "models",
+      "relation": "has_part",
+      "target": "types"
+    },
+    {
+      "source": "metals",
+      "relation": "has_part",
+      "target": "yields"
+    },
+    {
+      "source": "tions",
+      "relation": "has_part",
+      "target": "development"
+    },
+    {
+      "source": "Therefore",
+      "relation": "has_part",
+      "target": "level"
+    },
+    {
+      "source": "productivity",
+      "relation": "has_part",
+      "target": "aspect"
+    },
+    {
+      "source": "consumption",
+      "relation": "has_part",
+      "target": "Forexample"
+    },
+    {
+      "source": "modeling",
+      "relation": "has_part",
+      "target": "issues"
+    },
+    {
+      "source": "level",
+      "relation": "has_part",
+      "target": "improvements"
+    },
+    {
+      "source": "processes[2",
+      "relation": "has_part",
+      "target": "optimization"
+    },
+    {
+      "source": "reactions",
+      "relation": "has_part",
+      "target": "variety"
+    },
+    {
+      "source": "gas",
+      "relation": "has_part",
+      "target": "multi-"
+    },
+    {
+      "source": "processes",
+      "relation": "has_part",
+      "target": "characteristics"
+    },
+    {
+      "source": "devices",
+      "relation": "has_part",
+      "target": "mechanisms"
+    },
+    {
+      "source": "production",
+      "relation": "has_part",
+      "target": "demand"
+    },
+    {
+      "source": "processes",
+      "relation": "has_part",
+      "target": "modeling"
+    },
+    {
+      "source": "China",
+      "relation": "has_part",
+      "target": "Foundation"
+    },
+    {
+      "source": "forms",
+      "relation": "has_part",
+      "target": "variety"
+    },
+    {
+      "source": "transfer",
+      "relation": "has_part",
+      "target": "forms"
+    },
+    {
+      "source": "modeling",
+      "relation": "has_part",
+      "target": "culty"
+    },
+    {
+      "source": "Science",
+      "relation": "has_part",
+      "target": "School"
+    },
+    {
+      "source": "model",
+      "relation": "has_part",
+      "target": "method"
+    },
+    {
+      "source": "solution",
+      "relation": "has_part",
+      "target": "carbonation"
+    },
+    {
+      "source": "cobalt",
+      "relation": "has_part",
+      "target": "removal"
+    },
+    {
+      "source": "system",
+      "relation": "has_part",
+      "target": "law"
+    },
+    {
+      "source": "model",
+      "relation": "has_part",
+      "target": "variables"
+    },
+    {
+      "source": "metallurgy",
+      "relation": "has_part",
+      "target": "field"
+    },
+    {
+      "source": "Control",
+      "relation": "has_part",
+      "target": "Laboratory"
+    },
+    {
+      "source": "temperature",
+      "relation": "has_part",
+      "target": "Laboratory"
+    },
+    {
+      "source": "material",
+      "relation": "has_part",
+      "target": "temperature"
+    },
+    {
+      "source": "Technology",
+      "relation": "has_part",
+      "target": "University"
+    },
+    {
+      "source": "reactor",
+      "relation": "has_part",
+      "target": "outlet"
+    },
+    {
+      "source": "Process",
+      "relation": "has_part",
+      "target": "Department"
+    },
+    {
+      "source": "University",
+      "relation": "has_part",
+      "target": "Engineering"
+    },
+    {
+      "source": "Processing",
+      "relation": "has_part",
+      "target": "variety"
+    },
+    {
+      "source": "College",
+      "relation": "has_part",
+      "target": "Processing"
+    },
+    {
+      "source": "process",
+      "relation": "has_part",
+      "target": "reactors"
+    },
+    {
+      "source": "model",
+      "relation": "has_part",
+      "target": "eters"
+    },
+    {
+      "source": "reactors",
+      "relation": "has_part",
+      "target": "bility"
+    },
+    {
+      "source": "method",
+      "relation": "has_part",
+      "target": "instability"
+    },
+    {
+      "source": "bauxite",
+      "relation": "has_part",
+      "target": "model"
+    },
+    {
+      "source": "resultsofpracticalgrindingexperiments",
+      "relation": "has_part",
+      "target": "advantage"
+    },
+    {
+      "source": "breakage",
+      "relation": "has_part",
+      "target": "characteristics"
+    },
+    {
+      "source": "model",
+      "relation": "has_part",
+      "target": "effect"
+    },
+    {
+      "source": "mechanism",
+      "relation": "has_part",
+      "target": "cognition"
+    },
+    {
+      "source": "mechanism",
+      "relation": "has_part",
+      "target": "reliability"
+    },
+    {
+      "source": "formation",
+      "relation": "has_part",
+      "target": "conditions"
+    },
+    {
+      "source": "process",
+      "relation": "has_part",
+      "target": "method"
+    },
+    {
+      "source": "process",
+      "relation": "has_part",
+      "target": "behaviors"
+    },
+    {
+      "source": "modeling",
+      "relation": "has_part",
+      "target": "basis"
+    },
+    {
+      "source": "process",
+      "relation": "has_part",
+      "target": "modeling"
+    },
+    {
+      "source": "process",
+      "relation": "has_part",
+      "target": "cognition"
+    },
+    {
+      "source": "modeling",
+      "relation": "has_part",
+      "target": "metallurgical"
+    },
+    {
+      "source": "processes",
+      "relation": "has_part",
+      "target": "years"
+    },
+    {
+      "source": "materials",
+      "relation": "has_part",
+      "target": "rate"
+    },
+    {
+      "source": "tionofseveralmodelprimitives",
+      "relation": "has_part",
+      "target": "methods"
+    },
+    {
+      "source": "f()=M(cid:104)O",
+      "relation": "has_part",
+      "target": "model"
+    },
+    {
+      "source": "model",
+      "relation": "has_part",
+      "target": "part"
+    },
+    {
+      "source": "model",
+      "relation": "has_part",
+      "target": "body"
+    },
+    {
+      "source": "model",
+      "relation": "has_part",
+      "target": "ity"
+    },
+    {
+      "source": "primitives",
+      "relation": "has_part",
+      "target": "forms"
+    },
+    {
+      "source": "ingredients",
+      "relation": "has_part",
+      "target": "prediction"
+    },
+    {
+      "source": "model",
+      "relation": "has_part",
+      "target": "error"
+    },
+    {
+      "source": "models",
+      "relation": "has_part",
+      "target": "model"
+    },
+    {
+      "source": "model",
+      "relation": "has_part",
+      "target": "output"
+    },
+    {
+      "source": "network",
+      "relation": "has_part",
+      "target": "methods"
+    },
+    {
+      "source": "model",
+      "relation": "has_part",
+      "target": "acteristic"
+    },
+    {
+      "source": "network",
+      "relation": "has_part",
+      "target": "concept"
+    },
+    {
+      "source": "model",
+      "relation": "has_part",
+      "target": "ability"
+    },
+    {
+      "source": "substitution",
+      "relation": "has_part",
+      "target": "Integration"
+    },
+    {
+      "source": "model",
+      "relation": "has_part",
+      "target": "part"
+    },
+    {
+      "source": "asthemodelvariabledetermination",
+      "relation": "has_part",
+      "target": "parameters"
+    },
+    {
+      "source": "models",
+      "relation": "has_part",
+      "target": "advantages"
+    },
+    {
+      "source": "temduringtheconvertingprocess",
+      "relation": "has_part",
+      "target": "changes"
+    },
+    {
+      "source": "slag",
+      "relation": "has_part",
+      "target": "ratio"
+    },
+    {
+      "source": "furnace",
+      "relation": "has_part",
+      "target": "conditions"
+    },
+    {
+      "source": "structure",
+      "relation": "has_part",
+      "target": "body"
+    },
+    {
+      "source": "process",
+      "relation": "has_part",
+      "target": "tion"
+    },
+    {
+      "source": "process",
+      "relation": "has_part",
+      "target": "optimization"
+    },
+    {
+      "source": "process",
+      "relation": "has_part",
+      "target": "optimization"
+    },
+    {
+      "source": "problems",
+      "relation": "has_part",
+      "target": "levels"
+    },
+    {
+      "source": "process",
+      "relation": "has_part",
+      "target": "settings"
+    },
+    {
+      "source": "process",
+      "relation": "has_part",
+      "target": "rules"
+    },
+    {
+      "source": "production",
+      "relation": "has_part",
+      "target": "quality"
+    },
+    {
+      "source": "metal-",
+      "relation": "has_part",
+      "target": "parameters"
+    },
+    {
+      "source": "energy",
+      "relation": "has_part",
+      "target": "objectives"
+    },
+    {
+      "source": "produc-",
+      "relation": "has_part",
+      "target": "optimization"
+    },
+    {
+      "source": "optimization",
+      "relation": "has_part",
+      "target": "complexity"
+    },
+    {
+      "source": "operationalpatterns",
+      "relation": "has_part",
+      "target": "fluctuations"
+    },
+    {
+      "source": "problem",
+      "relation": "has_part",
+      "target": "case"
+    },
+    {
+      "source": "parametersareusedtoformanoperationalpatternofnon-",
+      "relation": "has_part",
+      "target": "performance"
+    },
+    {
+      "source": "method",
+      "relation": "has_part",
+      "target": "idea"
+    },
+    {
+      "source": "model",
+      "relation": "has_part",
+      "target": "requirement"
+    },
+    {
+      "source": "optimization",
+      "relation": "has_part",
+      "target": "goal"
+    },
+    {
+      "source": "processing",
+      "relation": "has_part",
+      "target": "circuits"
+    },
+    {
+      "source": "goals",
+      "relation": "has_part",
+      "target": "series"
+    },
+    {
+      "source": "uncertainties",
+      "relation": "has_part",
+      "target": "impacts"
+    },
+    {
+      "source": "adjustment",
+      "relation": "has_part",
+      "target": "level"
+    },
+    {
+      "source": "con-",
+      "relation": "has_part",
+      "target": "adjustment"
+    },
+    {
+      "source": "bauxite",
+      "relation": "has_part",
+      "target": "sit-"
+    },
+    {
+      "source": "composition",
+      "relation": "has_part",
+      "target": "fluctuations"
+    },
+    {
+      "source": "constraint",
+      "relation": "has_part",
+      "target": "composition"
+    },
+    {
+      "source": "proportioning",
+      "relation": "has_part",
+      "target": "optimization"
+    },
+    {
+      "source": "tralization",
+      "relation": "has_part",
+      "target": "values"
+    },
+    {
+      "source": "levels",
+      "relation": "has_part",
+      "target": "order"
+    },
+    {
+      "source": "slurry",
+      "relation": "has_part",
+      "target": "quality"
+    },
+    {
+      "source": "method",
+      "relation": "has_part",
+      "target": "concept"
+    },
+    {
+      "source": "smelting",
+      "relation": "has_part",
+      "target": "cess"
+    },
+    {
+      "source": "problems",
+      "relation": "has_part",
+      "target": "solution"
+    },
+    {
+      "source": "themodels",
+      "relation": "has_part",
+      "target": "inaccuracy"
+    },
+    {
+      "source": "makers",
+      "relation": "has_part",
+      "target": "degree"
+    },
+    {
+      "source": "makers",
+      "relation": "has_part",
+      "target": "requirement"
+    },
+    {
+      "source": "find",
+      "relation": "has_part",
+      "target": "conditions"
+    },
+    {
+      "source": "tanks",
+      "relation": "has_part",
+      "target": "combination"
+    },
+    {
+      "source": "rectifier",
+      "relation": "has_part",
+      "target": "control"
+    },
+    {
+      "source": "price",
+      "relation": "has_part",
+      "target": "policy"
+    },
+    {
+      "source": "method",
+      "relation": "has_part",
+      "target": "cost"
+    },
+    {
+      "source": "process",
+      "relation": "has_part",
+      "target": "optimization"
+    },
+    {
+      "source": "tifierunit[20",
+      "relation": "has_part",
+      "target": "control"
+    },
+    {
+      "source": "eling",
+      "relation": "has_part",
+      "target": "process"
+    },
+    {
+      "source": "system",
+      "relation": "has_part",
+      "target": "operation"
+    },
+    {
+      "source": "process",
+      "relation": "has_part",
+      "target": "model"
+    },
+    {
+      "source": "functions",
+      "relation": "has_part",
+      "target": "consumption"
+    },
+    {
+      "source": "reactions",
+      "relation": "has_part",
+      "target": "functions"
+    },
+    {
+      "source": "voltages",
+      "relation": "has_part",
+      "target": "costs"
+    },
+    {
+      "source": "RTln(1.1",
+      "relation": "has_part",
+      "target": "control"
+    },
+    {
+      "source": "electrolyticdepositionprocess",
+      "relation": "has_part",
+      "target": "temperature"
+    },
+    {
+      "source": "elec-",
+      "relation": "has_part",
+      "target": "conditions"
+    },
+    {
+      "source": "process",
+      "relation": "has_part",
+      "target": "fluctuation"
+    },
+    {
+      "source": "flow",
+      "relation": "has_part",
+      "target": "control"
+    },
+    {
+      "source": "adjustment",
+      "relation": "has_part",
+      "target": "amplitude"
+    },
+    {
+      "source": "concentration",
+      "relation": "has_part",
+      "target": "tracking"
+    },
+    {
+      "source": "power",
+      "relation": "has_part",
+      "target": "error"
+    },
+    {
+      "source": "electrolyte",
+      "relation": "has_part",
+      "target": "perature"
+    },
+    {
+      "source": "cess",
+      "relation": "has_part",
+      "target": "optimization"
+    },
+    {
+      "source": "units",
+      "relation": "has_part",
+      "target": "losses"
+    },
+    {
+      "source": "units",
+      "relation": "has_part",
+      "target": "combination"
+    },
+    {
+      "source": "tons",
+      "relation": "has_part",
+      "target": "capacity"
+    },
+    {
+      "source": "boundary",
+      "relation": "has_part",
+      "target": "values"
+    },
+    {
+      "source": "industry",
+      "relation": "has_part",
+      "target": "consumption"
+    },
+    {
+      "source": "industry",
+      "relation": "has_part",
+      "target": "development"
+    },
+    {
+      "source": "accordingtothequantifiedcredibilityindexes",
+      "relation": "has_part",
+      "target": "degree"
+    },
+    {
+      "source": "production",
+      "relation": "has_part",
+      "target": "tion"
+    },
+    {
+      "source": "optimization",
+      "relation": "has_part",
+      "target": "Challenges"
+    },
+    {
+      "source": "process",
+      "relation": "has_part",
+      "target": "polyphase"
+    },
+    {
+      "source": "optimization",
+      "relation": "has_part",
+      "target": "requirements"
+    },
+    {
+      "source": "multi",
+      "relation": "has_part",
+      "target": "characteristics"
+    },
+    {
+      "source": "phase",
+      "relation": "has_part",
+      "target": "characteristics"
+    },
+    {
+      "source": "energy",
+      "relation": "has_part",
+      "target": "interaction"
+    },
+    {
+      "source": "operation",
+      "relation": "has_part",
+      "target": "level"
+    },
+    {
+      "source": "tribution",
+      "relation": "has_part",
+      "target": "function"
+    },
+    {
+      "source": "parameters",
+      "relation": "has_part",
+      "target": "tribution"
+    },
+    {
+      "source": "functions",
+      "relation": "has_part",
+      "target": "formula"
+    },
+    {
+      "source": "tionmodel",
+      "relation": "has_part",
+      "target": "accuracy"
+    },
+    {
+      "source": "expressdifferentinformation",
+      "relation": "has_part",
+      "target": "constraints"
+    },
+    {
+      "source": "process",
+      "relation": "has_part",
+      "target": "Journal"
+    },
+    {
+      "source": "tionprocess",
+      "relation": "has_part",
+      "target": "modelling"
+    },
+    {
+      "source": "materials",
+      "relation": "has_part",
+      "target": "changes"
+    },
+    {
+      "source": "conditions",
+      "relation": "has_part",
+      "target": "fluctuations"
+    },
+    {
+      "source": "zincsintering",
+      "relation": "has_part",
+      "target": "stability"
+    },
+    {
+      "source": "operation",
+      "relation": "has_part",
+      "target": "optimization"
+    },
+    {
+      "source": "life",
+      "relation": "has_part",
+      "target": "model"
+    },
+    {
+      "source": "sodiumaluminatesolution",
+      "relation": "has_part",
+      "target": "carbonation"
+    },
+    {
+      "source": "sources",
+      "relation": "has_part",
+      "target": "AlokoD.Neuralnetworkcontrol"
+    },
+    {
+      "source": "CSTR",
+      "relation": "has_part",
+      "target": "techniques"
+    },
+    {
+      "source": "practice",
+      "relation": "has_part",
+      "target": "Modeling"
+    },
+    {
+      "source": "non",
+      "relation": "has_component",
+      "target": "practice"
+    },
+    {
+      "source": "process",
+      "relation": "has_part",
+      "target": "practice"
+    },
+    {
+      "source": "Control",
+      "relation": "has_part",
+      "target": "Journal"
+    },
+    {
+      "source": "conversion",
+      "relation": "has_part",
+      "target": "ing"
+    },
+    {
+      "source": "science",
+      "relation": "has_part",
+      "target": "development"
+    },
+    {
+      "source": "energy",
+      "relation": "has_part",
+      "target": "system"
+    },
+    {
+      "source": "Process",
+      "relation": "has_part",
+      "target": "Journal"
+    },
+    {
+      "source": "process",
+      "relation": "has_part",
+      "target": "circuits"
+    },
+    {
+      "source": "Control",
+      "relation": "has_part",
+      "target": "Journal"
+    },
+    {
+      "source": "University",
+      "relation": "has_part",
+      "target": "Journal"
+    },
+    {
+      "source": "control",
+      "relation": "has_part",
+      "target": "terms"
+    },
+    {
+      "source": "smelting",
+      "relation": "has_part",
+      "target": "process"
+    },
+    {
+      "source": "grade",
+      "relation": "has_part",
+      "target": "model"
+    },
+    {
+      "source": "Soci-",
+      "relation": "has_part",
+      "target": "Transactions"
+    },
+    {
+      "source": "com-",
+      "relation": "has_part",
+      "target": "control"
+    },
+    {
+      "source": "com-",
+      "relation": "has_part",
+      "target": "control"
+    },
+    {
+      "source": "Instrument",
+      "relation": "has_part",
+      "target": "Journal"
+    },
+    {
+      "source": "chemi-",
+      "relation": "has_part",
+      "target": "optimization"
+    },
+    {
+      "source": "Professor",
+      "relation": "has_part",
+      "target": "optimization"
+    },
+    {
+      "source": "complexindustrialprocesses",
+      "relation": "has_part",
+      "target": "optimization"
+    },
+    {
+      "source": "mail",
+      "relation": "has_part",
+      "target": "Optimization"
+    },
+    {
+      "source": "process",
+      "relation": "has_part",
+      "target": "control"
+    },
+    {
+      "source": "ArtificialIntelligence,2004,17",
+      "relation": "has_part",
+      "target": "Applications"
+    },
+    {
+      "source": "Model",
+      "relation": "related_to",
+      "target": "Op"
+    },
+    {
+      "source": "Model",
+      "relation": "related_to",
+      "target": "##zation"
+    },
+    {
+      "source": "Model",
+      "relation": "related_to",
+      "target": "Problems"
+    },
+    {
+      "source": "Model",
+      "relation": "related_to",
+      "target": "Challenges"
+    },
+    {
+      "source": "Model",
+      "relation": "related_to",
+      "target": "Nonferrous"
+    },
+    {
+      "source": "Model",
+      "relation": "related_to",
+      "target": "Metallurgical"
+    },
+    {
+      "source": "Model",
+      "relation": "related_to",
+      "target": "Processes"
+    },
+    {
+      "source": "Model",
+      "relation": "related_to",
+      "target": "Wei"
+    },
+    {
+      "source": "Model",
+      "relation": "related_to",
+      "target": "Hua"
+    },
+    {
+      "source": "Model",
+      "relation": "related_to",
+      "target": "GUI1"
+    },
+    {
+      "source": "Model",
+      "relation": "related_to",
+      "target": "Chun"
+    },
+    {
+      "source": "Model",
+      "relation": "related_to",
+      "target": "YANG1"
+    },
+    {
+      "source": "Model",
+      "relation": "related_to",
+      "target": "Xiao"
+    },
+    {
+      "source": "Model",
+      "relation": "related_to",
+      "target": "Fang"
+    },
+    {
+      "source": "Model",
+      "relation": "related_to",
+      "target": "CHEN1"
+    },
+    {
+      "source": "Model",
+      "relation": "related_to",
+      "target": "Lin"
+    },
+    {
+      "source": "Model",
+      "relation": "related_to",
+      "target": "WANG1"
+    },
+    {
+      "source": "current",
+      "relation": "related_to",
+      "target": "energy"
+    },
+    {
+      "source": "current",
+      "relation": "related_to",
+      "target": "Abstract"
+    },
+    {
+      "source": "current",
+      "relation": "related_to",
+      "target": "development"
+    },
+    {
+      "source": "current",
+      "relation": "related_to",
+      "target": "nonferrous"
+    },
+    {
+      "source": "current",
+      "relation": "related_to",
+      "target": "metallurgical"
+    },
+    {
+      "source": "current",
+      "relation": "related_to",
+      "target": "industry"
+    },
+    {
+      "source": "current",
+      "relation": "related_to",
+      "target": "resource"
+    },
+    {
+      "source": "current",
+      "relation": "related_to",
+      "target": "shortage"
+    },
+    {
+      "source": "current",
+      "relation": "related_to",
+      "target": "crisisandenvironmentalpollution"
+    },
+    {
+      "source": "Themodelingandoptimizationarekeytechniquesextensivelyusedtosaveenergy",
+      "relation": "related_to",
+      "target": "consumptionandemissionsinthenonferrousmetallurgicalprocesses"
+    },
+    {
+      "source": "Inthispaper",
+      "relation": "related_to",
+      "target": "themodelingproblemfornonferrous"
+    },
+    {
+      "source": "Basedonthecharacteristicsofthenonferrousmetallurgicalprocesses",
+      "relation": "related_to",
+      "target": "severalmethodsand"
+    },
+    {
+      "source": "Basedonthecharacteristicsofthenonferrousmetallurgicalprocesses",
+      "relation": "related_to",
+      "target": "theoriesforthemodelingofnonferrousmetallurgicalprocesses"
+    },
+    {
+      "source": "Basedonthecharacteristicsofthenonferrousmetallurgicalprocesses",
+      "relation": "related_to",
+      "target": "includingthemechanism"
+    },
+    {
+      "source": "Basedonthecharacteristicsofthenonferrousmetallurgicalprocesses",
+      "relation": "related_to",
+      "target": "continuousstirredtankreactor"
+    },
+    {
+      "source": "Basedonthecharacteristicsofthenonferrousmetallurgicalprocesses",
+      "relation": "related_to",
+      "target": "CSTR)-based"
+    },
+    {
+      "source": "Basedonthecharacteristicsofthenonferrousmetallurgicalprocesses",
+      "relation": "related_to",
+      "target": "andintelligentintegratedmodelingmethods"
+    },
+    {
+      "source": "modeling",
+      "relation": "related_to",
+      "target": "Wefocusonthedescriptionmethodinintelligent"
+    },
+    {
+      "source": "modeling",
+      "relation": "related_to",
+      "target": "integration"
+    },
+    {
+      "source": "modeling",
+      "relation": "related_to",
+      "target": "structures"
+    },
+    {
+      "source": "modeling",
+      "relation": "related_to",
+      "target": "types"
+    },
+    {
+      "source": "modeling",
+      "relation": "related_to",
+      "target": "intelligent"
+    },
+    {
+      "source": "modeling",
+      "relation": "related_to",
+      "target": "integrated"
+    },
+    {
+      "source": "modeling",
+      "relation": "related_to",
+      "target": "models"
+    },
+    {
+      "source": "modeling",
+      "relation": "related_to",
+      "target": "various"
+    },
+    {
+      "source": "modeling",
+      "relation": "related_to",
+      "target": "industrial"
+    },
+    {
+      "source": "modeling",
+      "relation": "related_to",
+      "target": "applications"
+    },
+    {
+      "source": "optimization",
+      "relation": "related_to",
+      "target": "engineering"
+    },
+    {
+      "source": "optimization",
+      "relation": "related_to",
+      "target": "methods"
+    },
+    {
+      "source": "optimization",
+      "relation": "related_to",
+      "target": "operational"
+    },
+    {
+      "source": "optimization",
+      "relation": "related_to",
+      "target": "pattern"
+    },
+    {
+      "source": "optimization",
+      "relation": "related_to",
+      "target": "satisfactory"
+    },
+    {
+      "source": "optimization",
+      "relation": "related_to",
+      "target": "soft"
+    },
+    {
+      "source": "optimization",
+      "relation": "related_to",
+      "target": "constraints"
+    },
+    {
+      "source": "optimization",
+      "relation": "related_to",
+      "target": "adjustment"
+    },
+    {
+      "source": "optimization",
+      "relation": "related_to",
+      "target": "multi"
+    },
+    {
+      "source": "optimization",
+      "relation": "related_to",
+      "target": "objectiveintelligentoptimizationmethods"
+    },
+    {
+      "source": "optimization",
+      "relation": "related_to",
+      "target": "andacomprehensiveoptimalcontroltechniqueforalarge"
+    },
+    {
+      "source": "optimization",
+      "relation": "related_to",
+      "target": "scale"
+    },
+    {
+      "source": "zinc",
+      "relation": "related_to",
+      "target": "Keywords"
+    },
+    {
+      "source": "zinc",
+      "relation": "related_to",
+      "target": "processes"
+    },
+    {
+      "source": "zinc",
+      "relation": "related_to",
+      "target": "operational-"
+    },
+    {
+      "source": "zinc",
+      "relation": "related_to",
+      "target": "basic"
+    },
+    {
+      "source": "zinc",
+      "relation": "related_to",
+      "target": "strategic"
+    },
+    {
+      "source": "zinc",
+      "relation": "related_to",
+      "target": "part"
+    },
+    {
+      "source": "zinc",
+      "relation": "related_to",
+      "target": "national"
+    },
+    {
+      "source": "zinc",
+      "relation": "related_to",
+      "target": "economy"
+    },
+    {
+      "source": "zinc",
+      "relation": "related_to",
+      "target": "characteristicsofthenonferrousmetallurgicalprocess"
+    },
+    {
+      "source": "zinc",
+      "relation": "related_to",
+      "target": "such"
+    },
+    {
+      "source": "zinc",
+      "relation": "related_to",
+      "target": "defense"
+    },
+    {
+      "source": "zinc",
+      "relation": "related_to",
+      "target": "metallurgi-"
+    },
+    {
+      "source": "zinc",
+      "relation": "related_to",
+      "target": "long"
+    },
+    {
+      "source": "zinc",
+      "relation": "related_to",
+      "target": "process"
+    },
+    {
+      "source": "zinc",
+      "relation": "related_to",
+      "target": "strong"
+    },
+    {
+      "source": "zinc",
+      "relation": "related_to",
+      "target": "coupling"
+    },
+    {
+      "source": "zinc",
+      "relation": "related_to",
+      "target": "cal"
+    },
+    {
+      "source": "zinc",
+      "relation": "related_to",
+      "target": "past"
+    },
+    {
+      "source": "zinc",
+      "relation": "related_to",
+      "target": "decades"
+    },
+    {
+      "source": "zinc",
+      "relation": "related_to",
+      "target": "difficult"
+    },
+    {
+      "source": "China",
+      "relation": "related_to",
+      "target": "yields"
+    },
+    {
+      "source": "China",
+      "relation": "related_to",
+      "target": "metals"
+    },
+    {
+      "source": "China",
+      "relation": "related_to",
+      "target": "metallurgicalprocessusuallyhaslongprocessflowandcon-"
+    },
+    {
+      "source": "China",
+      "relation": "related_to",
+      "target": "copper"
+    },
+    {
+      "source": "China",
+      "relation": "related_to",
+      "target": "aluminum"
+    },
+    {
+      "source": "China",
+      "relation": "related_to",
+      "target": "lead"
+    },
+    {
+      "source": "China",
+      "relation": "related_to",
+      "target": "tains"
+    },
+    {
+      "source": "China",
+      "relation": "related_to",
+      "target": "multiple"
+    },
+    {
+      "source": "China",
+      "relation": "related_to",
+      "target": "time"
+    },
+    {
+      "source": "China",
+      "relation": "related_to",
+      "target": "delays"
+    },
+    {
+      "source": "tions",
+      "relation": "related_to",
+      "target": "parameters"
+    },
+    {
+      "source": "resources",
+      "relation": "related_to",
+      "target": "multipleproductionindicatorsandcomplexcon-"
+    },
+    {
+      "source": "resources",
+      "relation": "related_to",
+      "target": "crisis"
+    },
+    {
+      "source": "resources",
+      "relation": "related_to",
+      "target": "environmental"
+    },
+    {
+      "source": "resources",
+      "relation": "related_to",
+      "target": "pollution[1"
+    },
+    {
+      "source": "other",
+      "relation": "related_to",
+      "target": "hand"
+    },
+    {
+      "source": "other",
+      "relation": "related_to",
+      "target": "technical"
+    },
+    {
+      "source": "other",
+      "relation": "related_to",
+      "target": "level"
+    },
+    {
+      "source": "other",
+      "relation": "related_to",
+      "target": "Therefore"
+    },
+    {
+      "source": "other",
+      "relation": "related_to",
+      "target": "globalprocessoptimizationisextremelydifficult"
+    },
+    {
+      "source": "smelting",
+      "relation": "related_to",
+      "target": "equipment"
+    },
+    {
+      "source": "smelting",
+      "relation": "related_to",
+      "target": "Thesemodelingandoptimizationproblemspreventtheex-"
+    },
+    {
+      "source": "smelting",
+      "relation": "related_to",
+      "target": "withadvancedforeignenterprises"
+    },
+    {
+      "source": "smelting",
+      "relation": "related_to",
+      "target": "istingprocessequipmentandthebasicautomationsystems"
+    },
+    {
+      "source": "smelting",
+      "relation": "related_to",
+      "target": "aspect"
+    },
+    {
+      "source": "smelting",
+      "relation": "related_to",
+      "target": "productivity"
+    },
+    {
+      "source": "smelting",
+      "relation": "related_to",
+      "target": "production"
+    },
+    {
+      "source": "smelting",
+      "relation": "related_to",
+      "target": "costs"
+    },
+    {
+      "source": "manual",
+      "relation": "related_to",
+      "target": "operation"
+    },
+    {
+      "source": "manual",
+      "relation": "related_to",
+      "target": "tion"
+    },
+    {
+      "source": "manual",
+      "relation": "related_to",
+      "target": "pollution"
+    },
+    {
+      "source": "manual",
+      "relation": "related_to",
+      "target": "mineral"
+    },
+    {
+      "source": "manual",
+      "relation": "related_to",
+      "target": "recovery"
+    },
+    {
+      "source": "manual",
+      "relation": "related_to",
+      "target": "rate"
+    },
+    {
+      "source": "Forexample",
+      "relation": "related_to",
+      "target": "themineralrecoveryrateisonly50"
+    },
+    {
+      "source": "Forexample",
+      "relation": "related_to",
+      "target": "jective"
+    },
+    {
+      "source": "Forexample",
+      "relation": "related_to",
+      "target": "unreliable"
+    },
+    {
+      "source": "Forexample",
+      "relation": "related_to",
+      "target": "advanced"
+    },
+    {
+      "source": "Forexample",
+      "relation": "related_to",
+      "target": "consumption"
+    },
+    {
+      "source": "Forexample",
+      "relation": "related_to",
+      "target": "unit"
+    },
+    {
+      "source": "Forexample",
+      "relation": "related_to",
+      "target": "key"
+    },
+    {
+      "source": "Forexample",
+      "relation": "related_to",
+      "target": "issues"
+    },
+    {
+      "source": "Forexample",
+      "relation": "related_to",
+      "target": "15%higherthantheadvancedlevel"
+    },
+    {
+      "source": "Thetechnicallevelof",
+      "relation": "related_to",
+      "target": "timization"
+    },
+    {
+      "source": "Thetechnicallevelof",
+      "relation": "related_to",
+      "target": "improvements"
+    },
+    {
+      "source": "Thetechnicallevelof",
+      "relation": "related_to",
+      "target": "thecomprehensiveautomationinmetallurgicalprocessesis"
+    },
+    {
+      "source": "Thetechnicallevelof",
+      "relation": "related_to",
+      "target": "control"
+    },
+    {
+      "source": "Thetechnicallevelof",
+      "relation": "related_to",
+      "target": "mechanism"
+    },
+    {
+      "source": "Thetechnicallevelof",
+      "relation": "related_to",
+      "target": "significant"
+    },
+    {
+      "source": "Thetechnicallevelof",
+      "relation": "related_to",
+      "target": "factor"
+    },
+    {
+      "source": "Thetechnicallevelof",
+      "relation": "related_to",
+      "target": "performance"
+    },
+    {
+      "source": "Thetechnicallevelof",
+      "relation": "related_to",
+      "target": "gap"
+    },
+    {
+      "source": "CSTR",
+      "relation": "related_to",
+      "target": "Theenhancementofautomationlevelinsmeltingproduc-"
+    },
+    {
+      "source": "CSTR",
+      "relation": "related_to",
+      "target": "areinvestigatedfirstlyinthispaper"
+    },
+    {
+      "source": "needs",
+      "relation": "related_to",
+      "target": "processes[2"
+    },
+    {
+      "source": "Thesemeth-",
+      "relation": "related_to",
+      "target": "variety"
+    },
+    {
+      "source": "Thesemeth-",
+      "relation": "related_to",
+      "target": "physical"
+    },
+    {
+      "source": "Thesemeth-",
+      "relation": "related_to",
+      "target": "chemical"
+    },
+    {
+      "source": "Thesemeth-",
+      "relation": "related_to",
+      "target": "reactions"
+    },
+    {
+      "source": "Thesemeth-",
+      "relation": "related_to",
+      "target": "ods"
+    },
+    {
+      "source": "coexistence",
+      "relation": "related_to",
+      "target": "multi-"
+    },
+    {
+      "source": "coexistence",
+      "relation": "related_to",
+      "target": "gas"
+    },
+    {
+      "source": "coexistence",
+      "relation": "related_to",
+      "target": "liquid"
+    },
+    {
+      "source": "coexistence",
+      "relation": "related_to",
+      "target": "solid"
+    },
+    {
+      "source": "coexistence",
+      "relation": "related_to",
+      "target": "complex"
+    },
+    {
+      "source": "coexistence",
+      "relation": "related_to",
+      "target": "material"
+    },
+    {
+      "source": "coexistence",
+      "relation": "related_to",
+      "target": "en-"
+    },
+    {
+      "source": "coexistence",
+      "relation": "related_to",
+      "target": "objective"
+    },
+    {
+      "source": "de-",
+      "relation": "related_to",
+      "target": "ergy"
+    },
+    {
+      "source": "de-",
+      "relation": "related_to",
+      "target": "transfer"
+    },
+    {
+      "source": "de-",
+      "relation": "related_to",
+      "target": "conversion"
+    },
+    {
+      "source": "component",
+      "relation": "related_to",
+      "target": "characteristics"
+    },
+    {
+      "source": "component",
+      "relation": "related_to",
+      "target": "different"
+    },
+    {
+      "source": "raw",
+      "relation": "related_to",
+      "target": "ore"
+    },
+    {
+      "source": "comprehensive",
+      "relation": "related_to",
+      "target": "optimal"
+    },
+    {
+      "source": "comprehensive",
+      "relation": "related_to",
+      "target": "technique"
+    },
+    {
+      "source": "comprehensive",
+      "relation": "related_to",
+      "target": "ferrous"
+    },
+    {
+      "source": "comprehensive",
+      "relation": "related_to",
+      "target": "metal"
+    },
+    {
+      "source": "comprehensive",
+      "relation": "related_to",
+      "target": "working"
+    },
+    {
+      "source": "comprehensive",
+      "relation": "related_to",
+      "target": "condition"
+    },
+    {
+      "source": "comprehensive",
+      "relation": "related_to",
+      "target": "large"
+    },
+    {
+      "source": "comprehensive",
+      "relation": "related_to",
+      "target": "electrolysis"
+    },
+    {
+      "source": "addition",
+      "relation": "related_to",
+      "target": "mechanisms"
+    },
+    {
+      "source": "addition",
+      "relation": "related_to",
+      "target": "challengingissuesonprocessmodelingandoptimizationare"
+    },
+    {
+      "source": "addition",
+      "relation": "related_to",
+      "target": "devices"
+    },
+    {
+      "source": "addition",
+      "relation": "related_to",
+      "target": "most"
+    },
+    {
+      "source": "addition",
+      "relation": "related_to",
+      "target": "demand"
+    },
+    {
+      "source": "addition",
+      "relation": "related_to",
+      "target": "green"
+    },
+    {
+      "source": "addition",
+      "relation": "related_to",
+      "target": "many"
+    },
+    {
+      "source": "addition",
+      "relation": "related_to",
+      "target": "uncertainties"
+    },
+    {
+      "source": "addition",
+      "relation": "related_to",
+      "target": "nonlin-"
+    },
+    {
+      "source": "relationships",
+      "relation": "related_to",
+      "target": "produc-"
+    },
+    {
+      "source": "relationships",
+      "relation": "related_to",
+      "target": "targets"
+    },
+    {
+      "source": "Intelligent",
+      "relation": "related_to",
+      "target": "National"
+    },
+    {
+      "source": "Intelligent",
+      "relation": "related_to",
+      "target": "Natural"
+    },
+    {
+      "source": "Intelligent",
+      "relation": "related_to",
+      "target": "Science"
+    },
+    {
+      "source": "Intelligent",
+      "relation": "related_to",
+      "target": "Foundation"
+    },
+    {
+      "source": "Intelligent",
+      "relation": "related_to",
+      "target": "valu-"
+    },
+    {
+      "source": "61134006,61025015,61273187),NationalKeyTechnologyResearch",
+      "relation": "related_to",
+      "target": "able"
+    },
+    {
+      "source": "61134006,61025015,61273187),NationalKeyTechnologyResearch",
+      "relation": "related_to",
+      "target": "phase"
+    },
+    {
+      "source": "61134006,61025015,61273187),NationalKeyTechnologyResearch",
+      "relation": "related_to",
+      "target": "andDevelopmentProgram(2012BAK09B04),InnovationTeamPro-"
+    },
+    {
+      "source": "61134006,61025015,61273187),NationalKeyTechnologyResearch",
+      "relation": "related_to",
+      "target": "gramoftheMinistryofEducation(IRT1044),andFundforDoctor"
+    },
+    {
+      "source": "61134006,61025015,61273187),NationalKeyTechnologyResearch",
+      "relation": "related_to",
+      "target": "transition"
+    },
+    {
+      "source": "StationoftheMinistryofEducation(20110162130011,201001621200",
+      "relation": "related_to",
+      "target": "forms"
+    },
+    {
+      "source": "main",
+      "relation": "related_to",
+      "target": "culty"
+    },
+    {
+      "source": "main",
+      "relation": "related_to",
+      "target": "RecommendedbyAcademicianLinHUANG"
+    },
+    {
+      "source": "main",
+      "relation": "related_to",
+      "target": "Citation"
+    },
+    {
+      "source": "main",
+      "relation": "related_to",
+      "target": "HuaGui"
+    },
+    {
+      "source": "main",
+      "relation": "related_to",
+      "target": "HuaYang"
+    },
+    {
+      "source": "main",
+      "relation": "related_to",
+      "target": "FangChen"
+    },
+    {
+      "source": "main",
+      "relation": "related_to",
+      "target": "reliable"
+    },
+    {
+      "source": "main",
+      "relation": "related_to",
+      "target": "effective"
+    },
+    {
+      "source": "main",
+      "relation": "related_to",
+      "target": "model"
+    },
+    {
+      "source": "main",
+      "relation": "related_to",
+      "target": "Wang"
+    },
+    {
+      "source": "Modeling",
+      "relation": "related_to",
+      "target": "problems"
+    },
+    {
+      "source": "Modeling",
+      "relation": "related_to",
+      "target": "challenges"
+    },
+    {
+      "source": "Modeling",
+      "relation": "related_to",
+      "target": "informa-"
+    },
+    {
+      "source": "Modeling",
+      "relation": "related_to",
+      "target": "inNonferrousMetallurgicalProcesses"
+    },
+    {
+      "source": "School",
+      "relation": "related_to",
+      "target": "Information"
+    },
+    {
+      "source": "School",
+      "relation": "related_to",
+      "target": "Engineering"
+    },
+    {
+      "source": "School",
+      "relation": "related_to",
+      "target": "Central"
+    },
+    {
+      "source": "School",
+      "relation": "related_to",
+      "target": "South"
+    },
+    {
+      "source": "School",
+      "relation": "related_to",
+      "target": "University"
+    },
+    {
+      "source": "School",
+      "relation": "related_to",
+      "target": "Changsha410083,China"
+    },
+    {
+      "source": "School",
+      "relation": "related_to",
+      "target": "ActaAutomaticaSinica,2013,Vol.39,No.3"
+    },
+    {
+      "source": "School",
+      "relation": "related_to",
+      "target": "Mechanism"
+    },
+    {
+      "source": "School",
+      "relation": "related_to",
+      "target": "method"
+    },
+    {
+      "source": "School",
+      "relation": "related_to",
+      "target": "fundamental"
+    },
+    {
+      "source": "School",
+      "relation": "related_to",
+      "target": "established[10"
+    },
+    {
+      "source": "continuous",
+      "relation": "related_to",
+      "target": "carbonation"
+    },
+    {
+      "source": "continuous",
+      "relation": "related_to",
+      "target": "sodium"
+    },
+    {
+      "source": "continuous",
+      "relation": "related_to",
+      "target": "aluminate"
+    },
+    {
+      "source": "continuous",
+      "relation": "related_to",
+      "target": "solution"
+    },
+    {
+      "source": "analysis",
+      "relation": "related_to",
+      "target": "whichisestablishedaccordingtothematerialbal-"
+    },
+    {
+      "source": "analysis",
+      "relation": "related_to",
+      "target": "systems"
+    },
+    {
+      "source": "analysis",
+      "relation": "related_to",
+      "target": "removal"
+    },
+    {
+      "source": "analysis",
+      "relation": "related_to",
+      "target": "cobalt"
+    },
+    {
+      "source": "analysis",
+      "relation": "related_to",
+      "target": "cadmium"
+    },
+    {
+      "source": "analysis",
+      "relation": "related_to",
+      "target": "ance"
+    },
+    {
+      "source": "analysis",
+      "relation": "related_to",
+      "target": "heatbalanceandmetallurgical"
+    },
+    {
+      "source": "analysis",
+      "relation": "related_to",
+      "target": "reactiondynamics"
+    },
+    {
+      "source": "law",
+      "relation": "related_to",
+      "target": "system"
+    },
+    {
+      "source": "law",
+      "relation": "related_to",
+      "target": "fromthese"
+    },
+    {
+      "source": "law",
+      "relation": "related_to",
+      "target": "basedonplentifulindustrialprocessesdataand"
+    },
+    {
+      "source": "law",
+      "relation": "related_to",
+      "target": "scribethesystembehavior[3"
+    },
+    {
+      "source": "Mechanismmodelisthebasis",
+      "relation": "related_to",
+      "target": "empirical"
+    },
+    {
+      "source": "Mechanismmodelisthebasis",
+      "relation": "related_to",
+      "target": "knowledge"
+    },
+    {
+      "source": "Mechanismmodelisthebasis",
+      "relation": "related_to",
+      "target": "support"
+    },
+    {
+      "source": "Mechanismmodelisthebasis",
+      "relation": "related_to",
+      "target": "ofdescription"
+    },
+    {
+      "source": "Mechanismmodelisthebasis",
+      "relation": "related_to",
+      "target": "controlandoptimizationofnonfer-"
+    },
+    {
+      "source": "Mechanismmodelisthebasis",
+      "relation": "related_to",
+      "target": "vector"
+    },
+    {
+      "source": "Mechanismmodelisthebasis",
+      "relation": "related_to",
+      "target": "machine"
+    },
+    {
+      "source": "Mechanismmodelisthebasis",
+      "relation": "related_to",
+      "target": "artificial"
+    },
+    {
+      "source": "Mechanismmodelisthebasis",
+      "relation": "related_to",
+      "target": "neural"
+    },
+    {
+      "source": "Mechanismmodelisthebasis",
+      "relation": "related_to",
+      "target": "network[15"
+    },
+    {
+      "source": "Mechanismmodelisthebasis",
+      "relation": "related_to",
+      "target": "rous"
+    },
+    {
+      "source": "estab-",
+      "relation": "related_to",
+      "target": "variables"
+    },
+    {
+      "source": "field",
+      "relation": "related_to",
+      "target": "metallurgy"
+    },
+    {
+      "source": "field",
+      "relation": "related_to",
+      "target": "international"
+    },
+    {
+      "source": "field",
+      "relation": "related_to",
+      "target": "followingassumptions"
+    },
+    {
+      "source": "field",
+      "relation": "related_to",
+      "target": "research"
+    },
+    {
+      "source": "field",
+      "relation": "related_to",
+      "target": "teams"
+    },
+    {
+      "source": "field",
+      "relation": "related_to",
+      "target": "mechanistic"
+    },
+    {
+      "source": "field",
+      "relation": "related_to",
+      "target": "reactor"
+    },
+    {
+      "source": "field",
+      "relation": "related_to",
+      "target": "stable"
+    },
+    {
+      "source": "field",
+      "relation": "related_to",
+      "target": "concentration"
+    },
+    {
+      "source": "field",
+      "relation": "related_to",
+      "target": "Laboratory"
+    },
+    {
+      "source": "field",
+      "relation": "related_to",
+      "target": "Process"
+    },
+    {
+      "source": "field",
+      "relation": "related_to",
+      "target": "Control"
+    },
+    {
+      "source": "field",
+      "relation": "related_to",
+      "target": "Automation"
+    },
+    {
+      "source": "field",
+      "relation": "related_to",
+      "target": "temperature"
+    },
+    {
+      "source": "field",
+      "relation": "related_to",
+      "target": "Helsinki"
+    },
+    {
+      "source": "field",
+      "relation": "related_to",
+      "target": "Technology"
+    },
+    {
+      "source": "field",
+      "relation": "related_to",
+      "target": "Finland"
+    },
+    {
+      "source": "field",
+      "relation": "related_to",
+      "target": "outlet"
+    },
+    {
+      "source": "groups",
+      "relation": "related_to",
+      "target": "Department"
+    },
+    {
+      "source": "groups",
+      "relation": "related_to",
+      "target": "Stel-"
+    },
+    {
+      "source": "groups",
+      "relation": "related_to",
+      "target": "lenbosch"
+    },
+    {
+      "source": "groups",
+      "relation": "related_to",
+      "target": "Africa"
+    },
+    {
+      "source": "groups",
+      "relation": "related_to",
+      "target": "tiphaseflowsand"
+    },
+    {
+      "source": "groups",
+      "relation": "related_to",
+      "target": "fieldcoupling"
+    },
+    {
+      "source": "groups",
+      "relation": "related_to",
+      "target": "effects"
+    },
+    {
+      "source": "groups",
+      "relation": "related_to",
+      "target": "Mineral"
+    },
+    {
+      "source": "groups",
+      "relation": "related_to",
+      "target": "Processing"
+    },
+    {
+      "source": "groups",
+      "relation": "related_to",
+      "target": "Imperial"
+    },
+    {
+      "source": "groups",
+      "relation": "related_to",
+      "target": "College"
+    },
+    {
+      "source": "ofphysicalfieldsareinnon",
+      "relation": "related_to",
+      "target": "uniformdistributedconditions"
+    },
+    {
+      "source": "ofphysicalfieldsareinnon",
+      "relation": "related_to",
+      "target": "4],KomulainenfromHelsinkiUniversityofTechnologyes-"
+    },
+    {
+      "source": "ofphysicalfieldsareinnon",
+      "relation": "related_to",
+      "target": "tablishedanonlineardynamicmodelforthecoppersolvent"
+    },
+    {
+      "source": "ofphysicalfieldsareinnon",
+      "relation": "related_to",
+      "target": "hold"
+    },
+    {
+      "source": "reactors",
+      "relation": "related_to",
+      "target": "non"
+    },
+    {
+      "source": "reactors",
+      "relation": "related_to",
+      "target": "extraction"
+    },
+    {
+      "source": "reactors",
+      "relation": "related_to",
+      "target": "balance"
+    },
+    {
+      "source": "fluctuation",
+      "relation": "related_to",
+      "target": "eters"
+    },
+    {
+      "source": "fluctuation",
+      "relation": "related_to",
+      "target": "index"
+    },
+    {
+      "source": "fluctuation",
+      "relation": "related_to",
+      "target": "sta-"
+    },
+    {
+      "source": "fluctuation",
+      "relation": "related_to",
+      "target": "cordingtothechangesoftheprocess"
+    },
+    {
+      "source": "anonlinearex-",
+      "relation": "related_to",
+      "target": "bility"
+    },
+    {
+      "source": "anonlinearex-",
+      "relation": "related_to",
+      "target": "instability"
+    },
+    {
+      "source": "anonlinearex-",
+      "relation": "related_to",
+      "target": "Kalman"
+    },
+    {
+      "source": "anonlinearex-",
+      "relation": "related_to",
+      "target": "filter"
+    },
+    {
+      "source": "anonlinearex-",
+      "relation": "related_to",
+      "target": "parameter"
+    },
+    {
+      "source": "anonlinearex-",
+      "relation": "related_to",
+      "target": "identification"
+    },
+    {
+      "source": "anonlinearex-",
+      "relation": "related_to",
+      "target": "wholesystem"
+    },
+    {
+      "source": "ThetraditionalCSTRmodelingmethodand",
+      "relation": "related_to",
+      "target": "usedtofurtherimprovetheaccuracyofthemodel"
+    },
+    {
+      "source": "Aldrich",
+      "relation": "related_to",
+      "target": "stability"
+    },
+    {
+      "source": "Aldrich",
+      "relation": "related_to",
+      "target": "single"
+    },
+    {
+      "source": "Aldrich",
+      "relation": "related_to",
+      "target": "reac-"
+    },
+    {
+      "source": "Aldrich",
+      "relation": "related_to",
+      "target": "Stellenbosch"
+    },
+    {
+      "source": "Aldrich",
+      "relation": "related_to",
+      "target": "Africa[5"
+    },
+    {
+      "source": "Aldrich",
+      "relation": "related_to",
+      "target": "tor"
+    },
+    {
+      "source": "Aldrich",
+      "relation": "related_to",
+      "target": "steady"
+    },
+    {
+      "source": "Aldrich",
+      "relation": "related_to",
+      "target": "state"
+    },
+    {
+      "source": "Aldrich",
+      "relation": "related_to",
+      "target": "point"
+    },
+    {
+      "source": "Aldrich",
+      "relation": "related_to",
+      "target": "suitable"
+    },
+    {
+      "source": "Aldrich",
+      "relation": "related_to",
+      "target": "lishedtheslagfoamingprocessmodelonthebasisofmecha-"
+    },
+    {
+      "source": "Aldrich",
+      "relation": "related_to",
+      "target": "associatedreactorswithalargeparameterstabilitydomain"
+    },
+    {
+      "source": "Aldrich",
+      "relation": "related_to",
+      "target": "nismanalysis"
+    },
+    {
+      "source": "Theyfocusedondeterminingtherealfactors",
+      "relation": "related_to",
+      "target": "andmechanismsoftheprocessbyexperimentalstudiesand"
+    },
+    {
+      "source": "Theyfocusedondeterminingtherealfactors",
+      "relation": "related_to",
+      "target": "modifyingthemodelaccordingtotheexperimentalresults"
+    },
+    {
+      "source": "Toavoidthedeficienciesofmechanismmodelingmethod",
+      "relation": "related_to",
+      "target": "population"
+    },
+    {
+      "source": "Toavoidthedeficienciesofmechanismmodelingmethod",
+      "relation": "related_to",
+      "target": "diasporic"
+    },
+    {
+      "source": "Toavoidthedeficienciesofmechanismmodelingmethod",
+      "relation": "related_to",
+      "target": "bauxite"
+    },
+    {
+      "source": "Toavoidthedeficienciesofmechanismmodelingmethod",
+      "relation": "related_to",
+      "target": "ball"
+    },
+    {
+      "source": "Toavoidthedeficienciesofmechanismmodelingmethod",
+      "relation": "related_to",
+      "target": "milling"
+    },
+    {
+      "source": "full",
+      "relation": "related_to",
+      "target": "advantage"
+    },
+    {
+      "source": "full",
+      "relation": "related_to",
+      "target": "resultsofpracticalgrindingexperiments"
+    },
+    {
+      "source": "full",
+      "relation": "related_to",
+      "target": "thenon"
+    },
+    {
+      "source": "full",
+      "relation": "related_to",
+      "target": "first"
+    },
+    {
+      "source": "full",
+      "relation": "related_to",
+      "target": "order"
+    },
+    {
+      "source": "full",
+      "relation": "related_to",
+      "target": "data"
+    },
+    {
+      "source": "full",
+      "relation": "related_to",
+      "target": "experience"
+    },
+    {
+      "source": "full",
+      "relation": "related_to",
+      "target": "indus-"
+    },
+    {
+      "source": "full",
+      "relation": "related_to",
+      "target": "dynamic"
+    },
+    {
+      "source": "full",
+      "relation": "related_to",
+      "target": "breakage"
+    },
+    {
+      "source": "full",
+      "relation": "related_to",
+      "target": "pre-"
+    },
+    {
+      "source": "full",
+      "relation": "related_to",
+      "target": "trial"
+    },
+    {
+      "source": "full",
+      "relation": "related_to",
+      "target": "intelligence"
+    },
+    {
+      "source": "full",
+      "relation": "related_to",
+      "target": "meth-"
+    },
+    {
+      "source": "results",
+      "relation": "related_to",
+      "target": "mathematical"
+    },
+    {
+      "source": "results",
+      "relation": "related_to",
+      "target": "fuzzy"
+    },
+    {
+      "source": "results",
+      "relation": "related_to",
+      "target": "logic[18"
+    },
+    {
+      "source": "results",
+      "relation": "related_to",
+      "target": "expert"
+    },
+    {
+      "source": "results",
+      "relation": "related_to",
+      "target": "systems[19"
+    },
+    {
+      "source": "results",
+      "relation": "related_to",
+      "target": "networks[20"
+    },
+    {
+      "source": "results",
+      "relation": "related_to",
+      "target": "statistical"
+    },
+    {
+      "source": "results",
+      "relation": "related_to",
+      "target": "learning"
+    },
+    {
+      "source": "results",
+      "relation": "related_to",
+      "target": "grain"
+    },
+    {
+      "source": "results",
+      "relation": "related_to",
+      "target": "size"
+    },
+    {
+      "source": "effect",
+      "relation": "related_to",
+      "target": "pends"
+    },
+    {
+      "source": "effect",
+      "relation": "related_to",
+      "target": "cognition"
+    },
+    {
+      "source": "costly",
+      "relation": "related_to",
+      "target": "strict"
+    },
+    {
+      "source": "costly",
+      "relation": "related_to",
+      "target": "superior"
+    },
+    {
+      "source": "practice",
+      "relation": "related_to",
+      "target": "com-"
+    },
+    {
+      "source": "practice",
+      "relation": "related_to",
+      "target": "plexitiesoftheobjects"
+    },
+    {
+      "source": "practice",
+      "relation": "related_to",
+      "target": "asingleintelligentmodelingmethod"
+    },
+    {
+      "source": "practice",
+      "relation": "related_to",
+      "target": "equilibrium"
+    },
+    {
+      "source": "practice",
+      "relation": "related_to",
+      "target": "limitations"
+    },
+    {
+      "source": "practice",
+      "relation": "related_to",
+      "target": "generalization"
+    },
+    {
+      "source": "practice",
+      "relation": "related_to",
+      "target": "uniform"
+    },
+    {
+      "source": "practice",
+      "relation": "related_to",
+      "target": "nonlinear"
+    },
+    {
+      "source": "practice",
+      "relation": "related_to",
+      "target": "char-"
+    },
+    {
+      "source": "practice",
+      "relation": "related_to",
+      "target": "formance"
+    },
+    {
+      "source": "practice",
+      "relation": "related_to",
+      "target": "prior"
+    },
+    {
+      "source": "practice",
+      "relation": "related_to",
+      "target": "processing"
+    },
+    {
+      "source": "reaction",
+      "relation": "related_to",
+      "target": "acteristics"
+    },
+    {
+      "source": "reliability",
+      "relation": "related_to",
+      "target": "themechanismmodel[8],sothatlowaccuracyormismatch"
+    },
+    {
+      "source": "reliability",
+      "relation": "related_to",
+      "target": "in-"
+    },
+    {
+      "source": "special",
+      "relation": "related_to",
+      "target": "conditions"
+    },
+    {
+      "source": "special",
+      "relation": "related_to",
+      "target": "domestic"
+    },
+    {
+      "source": "special",
+      "relation": "related_to",
+      "target": "formation"
+    },
+    {
+      "source": "special",
+      "relation": "related_to",
+      "target": "sources"
+    },
+    {
+      "source": "special",
+      "relation": "related_to",
+      "target": "more"
+    },
+    {
+      "source": "special",
+      "relation": "related_to",
+      "target": "theories"
+    },
+    {
+      "source": "special",
+      "relation": "related_to",
+      "target": "plex"
+    },
+    {
+      "source": "special",
+      "relation": "related_to",
+      "target": "fornonferrousmetallurgicalprocessesareproposedtocom-"
+    },
+    {
+      "source": "Manyimportedmechanismmodelsworkingwell",
+      "relation": "related_to",
+      "target": "pensateforlimitationsinthemechanismmodelingorsingle"
+    },
+    {
+      "source": "Manyimportedmechanismmodelsworkingwell",
+      "relation": "related_to",
+      "target": "cannotsatisfytheproductionrequire-"
+    },
+    {
+      "source": "ments",
+      "relation": "related_to",
+      "target": "example"
+    },
+    {
+      "source": "ments",
+      "relation": "related_to",
+      "target": "Toyo"
+    },
+    {
+      "source": "ments",
+      "relation": "related_to",
+      "target": "model[9"
+    },
+    {
+      "source": "ments",
+      "relation": "related_to",
+      "target": "flash"
+    },
+    {
+      "source": "ments",
+      "relation": "related_to",
+      "target": "theory"
+    },
+    {
+      "source": "nonfer-",
+      "relation": "related_to",
+      "target": "mech-"
+    },
+    {
+      "source": "nonfer-",
+      "relation": "related_to",
+      "target": "anism"
+    },
+    {
+      "source": "nonfer-",
+      "relation": "related_to",
+      "target": "certain"
+    },
+    {
+      "source": "nonfer-",
+      "relation": "related_to",
+      "target": "way"
+    },
+    {
+      "source": "nonfer-",
+      "relation": "related_to",
+      "target": "tank"
+    },
+    {
+      "source": "nonfer-",
+      "relation": "related_to",
+      "target": "behaviors"
+    },
+    {
+      "source": "nonfer-",
+      "relation": "related_to",
+      "target": "actual"
+    },
+    {
+      "source": "nonfer-",
+      "relation": "related_to",
+      "target": "best"
+    },
+    {
+      "source": "nonfer-",
+      "relation": "related_to",
+      "target": "usedinmetallurgicalandchemicalproductionprocesses"
+    },
+    {
+      "source": "whichthechemicalreactioncanbedescribedbyanonlinear",
+      "relation": "related_to",
+      "target": "eling"
+    },
+    {
+      "source": "whichthechemicalreactioncanbedescribedbyanonlinear",
+      "relation": "related_to",
+      "target": "iden-"
+    },
+    {
+      "source": "typical",
+      "relation": "related_to",
+      "target": "linear"
+    },
+    {
+      "source": "typical",
+      "relation": "related_to",
+      "target": "tificationandintelligentmodeling;theempiricalknowledge"
+    },
+    {
+      "source": "typical",
+      "relation": "related_to",
+      "target": "kinetics"
+    },
+    {
+      "source": "basis",
+      "relation": "related_to",
+      "target": "logic"
+    },
+    {
+      "source": "basis",
+      "relation": "related_to",
+      "target": "hydrometallurgical"
+    },
+    {
+      "source": "basis",
+      "relation": "related_to",
+      "target": "premise"
+    },
+    {
+      "source": "basis",
+      "relation": "related_to",
+      "target": "ion"
+    },
+    {
+      "source": "basis",
+      "relation": "related_to",
+      "target": "purification"
+    },
+    {
+      "source": "years",
+      "relation": "related_to",
+      "target": "practical"
+    },
+    {
+      "source": "flow",
+      "relation": "related_to",
+      "target": "materials"
+    },
+    {
+      "source": "flow",
+      "relation": "related_to",
+      "target": "anintelligent"
+    },
+    {
+      "source": "flow",
+      "relation": "related_to",
+      "target": "input"
+    },
+    {
+      "source": "flow",
+      "relation": "related_to",
+      "target": "description"
+    },
+    {
+      "source": "flow",
+      "relation": "related_to",
+      "target": "primitive"
+    },
+    {
+      "source": "flow",
+      "relation": "related_to",
+      "target": "mixed"
+    },
+    {
+      "source": "flow",
+      "relation": "related_to",
+      "target": "element"
+    },
+    {
+      "source": "flow",
+      "relation": "related_to",
+      "target": "method[2"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "materialandenergybalanceprinciples"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "elements"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "HuaGUIetal./ModelingandOptimizationProblemsandChallengesArisingin"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "object"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "Gisthemodelgoal;V"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "representsthevariablesetof"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "Inpractice"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "output"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "intermediate"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "vari-"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "structure"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "partial"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "differential"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "network"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "model[25"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "equations"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "Thenrules"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "threelayerneuralnetworks"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "etal"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "networks"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "traditional"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "model[26"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "structural"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "model[28"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "reasoning"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "eter"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "variable"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "grated"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "model[29"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "modelingincludingvariabledeterminationmethodandpa-"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "rameter"
+    },
+    {
+      "source": "reactionkinetics",
+      "relation": "related_to",
+      "target": "determination"
+    },
+    {
+      "source": "Typical",
+      "relation": "related_to",
+      "target": "Anintelligentintegratedmodelisastructuredcombina-"
+    },
+    {
+      "source": "Typical",
+      "relation": "related_to",
+      "target": "tionofseveralmodelprimitives"
+    },
+    {
+      "source": "Typical",
+      "relation": "related_to",
+      "target": "whereamodelprimitiveis"
+    },
+    {
+      "source": "Typical",
+      "relation": "related_to",
+      "target": "subsection"
+    },
+    {
+      "source": "Typical",
+      "relation": "related_to",
+      "target": "undividable"
+    },
+    {
+      "source": "Typical",
+      "relation": "related_to",
+      "target": "whichconsiderthecharacteristicsoftypicalnonferrous"
+    },
+    {
+      "source": "cid:189",
+      "relation": "related_to",
+      "target": "f()=M(cid:104)O"
+    },
+    {
+      "source": "cid:189",
+      "relation": "related_to",
+      "target": "1(cid:105"
+    },
+    {
+      "source": "impor-",
+      "relation": "related_to",
+      "target": "Sub"
+    },
+    {
+      "source": "impor-",
+      "relation": "related_to",
+      "target": "tant"
+    },
+    {
+      "source": "cid:104)O",
+      "relation": "related_to",
+      "target": "W|B"
+    },
+    {
+      "source": "cid:104)O",
+      "relation": "related_to",
+      "target": "0(cid:105"
+    },
+    {
+      "source": "ual",
+      "relation": "related_to",
+      "target": "error"
+    },
+    {
+      "source": "ual",
+      "relation": "related_to",
+      "target": "compensation"
+    },
+    {
+      "source": "ual",
+      "relation": "related_to",
+      "target": "f()andf"
+    },
+    {
+      "source": "ual",
+      "relation": "related_to",
+      "target": "aremodels;M(cid:104"
+    },
+    {
+      "source": "ual",
+      "relation": "related_to",
+      "target": "cid:105)ismodelcharacteri-"
+    },
+    {
+      "source": "ual",
+      "relation": "related_to",
+      "target": "Thismethodissuitableforindustrialprocessesinwhich"
+    },
+    {
+      "source": "ual",
+      "relation": "related_to",
+      "target": "zation"
+    },
+    {
+      "source": "ual",
+      "relation": "related_to",
+      "target": "symbol"
+    },
+    {
+      "source": "ual",
+      "relation": "related_to",
+      "target": "cid:104)(cid:105"
+    },
+    {
+      "source": "body",
+      "relation": "related_to",
+      "target": "mecha-"
+    },
+    {
+      "source": "body",
+      "relation": "related_to",
+      "target": "nismmodelisbuiltonmetallurgicalreactionkinetics"
+    },
+    {
+      "source": "body",
+      "relation": "related_to",
+      "target": "ther-"
+    },
+    {
+      "source": "several",
+      "relation": "related_to",
+      "target": "primitives"
+    },
+    {
+      "source": "principle",
+      "relation": "related_to",
+      "target": "difference"
+    },
+    {
+      "source": "principle",
+      "relation": "related_to",
+      "target": "components"
+    },
+    {
+      "source": "principle",
+      "relation": "related_to",
+      "target": "betweentheoutputfromthemechanismmodelandtheac-"
+    },
+    {
+      "source": "principle",
+      "relation": "related_to",
+      "target": "binethemechanismmodelingmodel"
+    },
+    {
+      "source": "principle",
+      "relation": "related_to",
+      "target": "datamodelingmodel"
+    },
+    {
+      "source": "principle",
+      "relation": "related_to",
+      "target": "tualoutput"
+    },
+    {
+      "source": "andknowledgemodelingmethodeffectivelyandtointegrate",
+      "relation": "related_to",
+      "target": "ity"
+    },
+    {
+      "source": "andknowledgemodelingmethodeffectivelyandtointegrate",
+      "relation": "related_to",
+      "target": "prediction"
+    },
+    {
+      "source": "andknowledgemodelingmethodeffectivelyandtointegrate",
+      "relation": "related_to",
+      "target": "processdata"
+    },
+    {
+      "source": "andknowledgemodelingmethodeffectivelyandtointegrate",
+      "relation": "related_to",
+      "target": "processmechanismandexperienceknowledge"
+    },
+    {
+      "source": "andknowledgemodelingmethodeffectivelyandtointegrate",
+      "relation": "related_to",
+      "target": "accuracy"
+    },
+    {
+      "source": "slurry",
+      "relation": "related_to",
+      "target": "ductionprocessisconsidered"
+    },
+    {
+      "source": "Apredictionmodelisestab-",
+      "relation": "related_to",
+      "target": "tegratedmodelsinspecifiedfield"
+    },
+    {
+      "source": "Inpracticalapplications",
+      "relation": "related_to",
+      "target": "quality[32"
+    },
+    {
+      "source": "Parallel",
+      "relation": "related_to",
+      "target": "connection"
+    },
+    {
+      "source": "Parallel",
+      "relation": "related_to",
+      "target": "residual"
+    },
+    {
+      "source": "isBPneuralnetworkmodel;thesecondoneisamechanism",
+      "relation": "related_to",
+      "target": "Thenoutputsofthetwomodelsareaddedormultipliedto"
+    },
+    {
+      "source": "outputs",
+      "relation": "related_to",
+      "target": "yieldthefinaloutputoftheintelligentintegratedmodel"
+    },
+    {
+      "source": "theintegratedmodel",
+      "relation": "related_to",
+      "target": "oneisaprinciplemodelandanother"
+    },
+    {
+      "source": "theintegratedmodel",
+      "relation": "related_to",
+      "target": "subordinate"
+    },
+    {
+      "source": "online",
+      "relation": "related_to",
+      "target": "ingredients"
+    },
+    {
+      "source": "online",
+      "relation": "related_to",
+      "target": "compensate"
+    },
+    {
+      "source": "weights",
+      "relation": "related_to",
+      "target": "More"
+    },
+    {
+      "source": "weight",
+      "relation": "related_to",
+      "target": "coefficients"
+    },
+    {
+      "source": "3)Modelintegrationinseries",
+      "relation": "related_to",
+      "target": "Twomodelprimitivesare"
+    },
+    {
+      "source": "3)Modelintegrationinseries",
+      "relation": "related_to",
+      "target": "put"
+    },
+    {
+      "source": "Twoormorethantwomodelprim-",
+      "relation": "related_to",
+      "target": "itivesareusedtoobtaintheintelligentintegratedmodel"
+    },
+    {
+      "source": "thisintelligentintegratedmodel",
+      "relation": "related_to",
+      "target": "othermodelsareembeddedinthemainmodeltosubstitute"
+    },
+    {
+      "source": "Structured",
+      "relation": "related_to",
+      "target": "Fig.1"
+    },
+    {
+      "source": "Structured",
+      "relation": "related_to",
+      "target": "Predictivemodelofrawslurryblendingquality"
+    },
+    {
+      "source": "Structured",
+      "relation": "related_to",
+      "target": "modelprimitiveisusedtoformtheintegratedmodel"
+    },
+    {
+      "source": "acteristic",
+      "relation": "related_to",
+      "target": "concept"
+    },
+    {
+      "source": "acteristic",
+      "relation": "related_to",
+      "target": "ability"
+    },
+    {
+      "source": "situations",
+      "relation": "related_to",
+      "target": "Integration"
+    },
+    {
+      "source": "situations",
+      "relation": "related_to",
+      "target": "substitution"
+    },
+    {
+      "source": "situations",
+      "relation": "related_to",
+      "target": "new"
+    },
+    {
+      "source": "situations",
+      "relation": "related_to",
+      "target": "tain"
+    },
+    {
+      "source": "situations",
+      "relation": "related_to",
+      "target": "uncertain"
+    },
+    {
+      "source": "original",
+      "relation": "related_to",
+      "target": "intelligentmodelsbasedonprocessdataandknowledgeare"
+    },
+    {
+      "source": "original",
+      "relation": "related_to",
+      "target": "asthemodelvariabledetermination"
+    },
+    {
+      "source": "words",
+      "relation": "related_to",
+      "target": "estimation"
+    },
+    {
+      "source": "case",
+      "relation": "related_to",
+      "target": "advantages"
+    },
+    {
+      "source": "case",
+      "relation": "related_to",
+      "target": "converting"
+    },
+    {
+      "source": "good",
+      "relation": "related_to",
+      "target": "result"
+    },
+    {
+      "source": "good",
+      "relation": "related_to",
+      "target": "verting"
+    },
+    {
+      "source": "good",
+      "relation": "related_to",
+      "target": "complicated"
+    },
+    {
+      "source": "good",
+      "relation": "related_to",
+      "target": "batch"
+    },
+    {
+      "source": "good",
+      "relation": "related_to",
+      "target": "high"
+    },
+    {
+      "source": "good",
+      "relation": "related_to",
+      "target": "telligent"
+    },
+    {
+      "source": "good",
+      "relation": "related_to",
+      "target": "coordination"
+    },
+    {
+      "source": "good",
+      "relation": "related_to",
+      "target": "multiphase"
+    },
+    {
+      "source": "good",
+      "relation": "related_to",
+      "target": "molten"
+    },
+    {
+      "source": "good",
+      "relation": "related_to",
+      "target": "bath"
+    },
+    {
+      "source": "or-",
+      "relation": "related_to",
+      "target": "membership"
+    },
+    {
+      "source": "der",
+      "relation": "related_to",
+      "target": "dynamical"
+    },
+    {
+      "source": "der",
+      "relation": "related_to",
+      "target": "changes"
+    },
+    {
+      "source": "der",
+      "relation": "related_to",
+      "target": "sys-"
+    },
+    {
+      "source": "der",
+      "relation": "related_to",
+      "target": "Inthecopperflashsmeltingprocess"
+    },
+    {
+      "source": "der",
+      "relation": "related_to",
+      "target": "mattetemperature"
+    },
+    {
+      "source": "der",
+      "relation": "related_to",
+      "target": "temduringtheconvertingprocess"
+    },
+    {
+      "source": "der",
+      "relation": "related_to",
+      "target": "matte"
+    },
+    {
+      "source": "der",
+      "relation": "related_to",
+      "target": "grade"
+    },
+    {
+      "source": "der",
+      "relation": "related_to",
+      "target": "iron"
+    },
+    {
+      "source": "der",
+      "relation": "related_to",
+      "target": "silicon"
+    },
+    {
+      "source": "der",
+      "relation": "related_to",
+      "target": "ratio"
+    },
+    {
+      "source": "der",
+      "relation": "related_to",
+      "target": "slag"
+    },
+    {
+      "source": "der",
+      "relation": "related_to",
+      "target": "showninFig.2,isproposedbyusingmodelembed-"
+    },
+    {
+      "source": "der",
+      "relation": "related_to",
+      "target": "indexes"
+    },
+    {
+      "source": "der",
+      "relation": "related_to",
+      "target": "furnace"
+    },
+    {
+      "source": "der",
+      "relation": "related_to",
+      "target": "method[30"
+    },
+    {
+      "source": "Fig.2",
+      "relation": "related_to",
+      "target": "multivariable"
+    },
+    {
+      "source": "Fig.2",
+      "relation": "related_to",
+      "target": "handicap"
+    },
+    {
+      "source": "Fig.2",
+      "relation": "related_to",
+      "target": "opti-"
+    },
+    {
+      "source": "Fig.2",
+      "relation": "related_to",
+      "target": "ordinary"
+    },
+    {
+      "source": "Fig.2",
+      "relation": "related_to",
+      "target": "maloperation"
+    },
+    {
+      "source": "Topredictthethreeindexes",
+      "relation": "related_to",
+      "target": "thepredictive"
+    },
+    {
+      "source": "Topredictthethreeindexes",
+      "relation": "related_to",
+      "target": "thermodynamics"
+    },
+    {
+      "source": "Topredictthethreeindexes",
+      "relation": "related_to",
+      "target": "Fig.3"
+    },
+    {
+      "source": "kinetic",
+      "relation": "related_to",
+      "target": "coefficient"
+    },
+    {
+      "source": "kinetic",
+      "relation": "related_to",
+      "target": "correction"
+    },
+    {
+      "source": "kinetic",
+      "relation": "related_to",
+      "target": "anistic"
+    },
+    {
+      "source": "kinetic",
+      "relation": "related_to",
+      "target": "heat"
+    },
+    {
+      "source": "recurrent",
+      "relation": "related_to",
+      "target": "dynamicmodelfortheslagmakingS1periodofPScopper"
+    },
+    {
+      "source": "Theobtainedterminalstate",
+      "relation": "related_to",
+      "target": "ligent"
+    },
+    {
+      "source": "Engineeringoptimizationisthekeytechniquefornonfer-",
+      "relation": "related_to",
+      "target": "lower"
+    },
+    {
+      "source": "Engineeringoptimizationisthekeytechniquefornonfer-",
+      "relation": "related_to",
+      "target": "resource-"
+    },
+    {
+      "source": "Engineeringoptimizationisthekeytechniquefornonfer-",
+      "relation": "related_to",
+      "target": "pollutants"
+    },
+    {
+      "source": "Engineeringoptimizationisthekeytechniquefornonfer-",
+      "relation": "related_to",
+      "target": "emission"
+    },
+    {
+      "source": "levels",
+      "relation": "related_to",
+      "target": "design"
+    },
+    {
+      "source": "levels",
+      "relation": "related_to",
+      "target": "simulation"
+    },
+    {
+      "source": "levels",
+      "relation": "related_to",
+      "target": "mization"
+    },
+    {
+      "source": "Intelligentintegratedmodelofthecopperconverting",
+      "relation": "related_to",
+      "target": "vices"
+    },
+    {
+      "source": "Simulation",
+      "relation": "related_to",
+      "target": "op-"
+    },
+    {
+      "source": "settings",
+      "relation": "related_to",
+      "target": "change"
+    },
+    {
+      "source": "settings",
+      "relation": "related_to",
+      "target": "rules"
+    },
+    {
+      "source": "calculation",
+      "relation": "related_to",
+      "target": "experiments"
+    },
+    {
+      "source": "optimiza-",
+      "relation": "related_to",
+      "target": "product"
+    },
+    {
+      "source": "optimiza-",
+      "relation": "related_to",
+      "target": "quality"
+    },
+    {
+      "source": "optimiza-",
+      "relation": "related_to",
+      "target": "eco-"
+    },
+    {
+      "source": "optimiza-",
+      "relation": "related_to",
+      "target": "own"
+    },
+    {
+      "source": "optimiza-",
+      "relation": "related_to",
+      "target": "un-"
+    },
+    {
+      "source": "optimiza-",
+      "relation": "related_to",
+      "target": "nomicindicators"
+    },
+    {
+      "source": "optimiza-",
+      "relation": "related_to",
+      "target": "weighting"
+    },
+    {
+      "source": "optimiza-",
+      "relation": "related_to",
+      "target": "objectives"
+    },
+    {
+      "source": "Theintelligentintegratedpredictivemodelbasedonmulti",
+      "relation": "related_to",
+      "target": "modelcoordinationforcopperflashsmeltingprocess"
+    },
+    {
+      "source": "Theintelligentintegratedpredictivemodelbasedonmulti",
+      "relation": "related_to",
+      "target": "guidance"
+    },
+    {
+      "source": "Theintelligentintegratedpredictivemodelbasedonmulti",
+      "relation": "related_to",
+      "target": "spec-"
+    },
+    {
+      "source": "Theintelligentintegratedpredictivemodelbasedonmulti",
+      "relation": "related_to",
+      "target": "scheduling"
+    },
+    {
+      "source": "Theintelligentintegratedpredictivemodelbasedonmulti",
+      "relation": "related_to",
+      "target": "running"
+    },
+    {
+      "source": "Theintelligentintegratedpredictivemodelbasedonmulti",
+      "relation": "related_to",
+      "target": "operations"
+    },
+    {
+      "source": "quantity",
+      "relation": "related_to",
+      "target": "worse"
+    },
+    {
+      "source": "quantity",
+      "relation": "related_to",
+      "target": "higher"
+    },
+    {
+      "source": "quantity",
+      "relation": "related_to",
+      "target": "points"
+    },
+    {
+      "source": "quantity",
+      "relation": "related_to",
+      "target": "tracking"
+    },
+    {
+      "source": "quantity",
+      "relation": "related_to",
+      "target": "stabilization"
+    },
+    {
+      "source": "quantity",
+      "relation": "related_to",
+      "target": "waste"
+    },
+    {
+      "source": "quantity",
+      "relation": "related_to",
+      "target": "pollutant"
+    },
+    {
+      "source": "itisstilldifficulttoachieverunningoptimization",
+      "relation": "related_to",
+      "target": "lurgical"
+    },
+    {
+      "source": "itisstilldifficulttoachieverunningoptimization",
+      "relation": "related_to",
+      "target": "whole"
+    },
+    {
+      "source": "overall",
+      "relation": "related_to",
+      "target": "entire"
+    },
+    {
+      "source": "complexity",
+      "relation": "related_to",
+      "target": "same"
+    },
+    {
+      "source": "procedure",
+      "relation": "related_to",
+      "target": "themultipleobjectivesandmultiplemod-"
+    },
+    {
+      "source": "procedure",
+      "relation": "related_to",
+      "target": "problem"
+    },
+    {
+      "source": "alumina",
+      "relation": "related_to",
+      "target": "pro-"
+    },
+    {
+      "source": "alumina",
+      "relation": "related_to",
+      "target": "patterns"
+    },
+    {
+      "source": "alumina",
+      "relation": "related_to",
+      "target": "term"
+    },
+    {
+      "source": "operators",
+      "relation": "related_to",
+      "target": "tering"
+    },
+    {
+      "source": "operators",
+      "relation": "related_to",
+      "target": "dissolution"
+    },
+    {
+      "source": "operators",
+      "relation": "related_to",
+      "target": "desiliconisation"
+    },
+    {
+      "source": "operators",
+      "relation": "related_to",
+      "target": "decomposition"
+    },
+    {
+      "source": "operators",
+      "relation": "related_to",
+      "target": "roast-"
+    },
+    {
+      "source": "operators",
+      "relation": "related_to",
+      "target": "decisions"
+    },
+    {
+      "source": "operators",
+      "relation": "related_to",
+      "target": "ing"
+    },
+    {
+      "source": "operators",
+      "relation": "related_to",
+      "target": "evaporation"
+    },
+    {
+      "source": "fluctuations",
+      "relation": "related_to",
+      "target": "operationalpatterns"
+    },
+    {
+      "source": "humanoperationmode",
+      "relation": "related_to",
+      "target": "processoftencostseveralworkshiftsorevendaysofmanual"
+    },
+    {
+      "source": "humanoperationmode",
+      "relation": "related_to",
+      "target": "subjective"
+    },
+    {
+      "source": "humanoperationmode",
+      "relation": "related_to",
+      "target": "rough"
+    },
+    {
+      "source": "humanoperationmode",
+      "relation": "related_to",
+      "target": "forgettable"
+    },
+    {
+      "source": "prominent",
+      "relation": "related_to",
+      "target": "massive"
+    },
+    {
+      "source": "server",
+      "relation": "related_to",
+      "target": "Traditional"
+    },
+    {
+      "source": "server",
+      "relation": "related_to",
+      "target": "decentralizedcontrolsystemsandindustrialnetworks"
+    },
+    {
+      "source": "gradient",
+      "relation": "related_to",
+      "target": "steepest"
+    },
+    {
+      "source": "gradient",
+      "relation": "related_to",
+      "target": "descent"
+    },
+    {
+      "source": "gradient",
+      "relation": "related_to",
+      "target": "rich"
+    },
+    {
+      "source": "gradient",
+      "relation": "related_to",
+      "target": "information"
+    },
+    {
+      "source": "gradient",
+      "relation": "related_to",
+      "target": "conjugategradientmethod"
+    },
+    {
+      "source": "gradient",
+      "relation": "related_to",
+      "target": "Newtonmethod"
+    },
+    {
+      "source": "gradient",
+      "relation": "related_to",
+      "target": "Mar-"
+    },
+    {
+      "source": "quardt",
+      "relation": "related_to",
+      "target": "sequential"
+    },
+    {
+      "source": "quardt",
+      "relation": "related_to",
+      "target": "quadratic"
+    },
+    {
+      "source": "quardt",
+      "relation": "related_to",
+      "target": "programming"
+    },
+    {
+      "source": "controllable",
+      "relation": "related_to",
+      "target": "operating"
+    },
+    {
+      "source": "controllable",
+      "relation": "related_to",
+      "target": "gorithm"
+    },
+    {
+      "source": "parametersareusedtoformanoperationalpatternofnon-",
+      "relation": "related_to",
+      "target": "algorithms"
+    },
+    {
+      "source": "accurate",
+      "relation": "related_to",
+      "target": "hard"
+    },
+    {
+      "source": "core",
+      "relation": "related_to",
+      "target": "idea"
+    },
+    {
+      "source": "core",
+      "relation": "related_to",
+      "target": "Tosolvethecomplexengineeringoptimizationproblems"
+    },
+    {
+      "source": "stateparameters",
+      "relation": "related_to",
+      "target": "heuristic"
+    },
+    {
+      "source": "Theyare",
+      "relation": "related_to",
+      "target": "method),data"
+    },
+    {
+      "source": "Theyare",
+      "relation": "related_to",
+      "target": "drivenmethods(likecasereasoningandop-"
+    },
+    {
+      "source": "Theyare",
+      "relation": "related_to",
+      "target": "base"
+    },
+    {
+      "source": "eration",
+      "relation": "related_to",
+      "target": "mode"
+    },
+    {
+      "source": "eration",
+      "relation": "related_to",
+      "target": "random"
+    },
+    {
+      "source": "eration",
+      "relation": "related_to",
+      "target": "search"
+    },
+    {
+      "source": "eration",
+      "relation": "related_to",
+      "target": "neuralnetworks"
+    },
+    {
+      "source": "eration",
+      "relation": "related_to",
+      "target": "match"
+    },
+    {
+      "source": "eration",
+      "relation": "related_to",
+      "target": "ary"
+    },
+    {
+      "source": "eration",
+      "relation": "related_to",
+      "target": "particle"
+    },
+    {
+      "source": "eration",
+      "relation": "related_to",
+      "target": "swarm"
+    },
+    {
+      "source": "eration",
+      "relation": "related_to",
+      "target": "tran-"
+    },
+    {
+      "source": "sition",
+      "relation": "related_to",
+      "target": "algorithm[34"
+    },
+    {
+      "source": "Theframeofdata",
+      "relation": "related_to",
+      "target": "drivenop-"
+    },
+    {
+      "source": "Theframeofdata",
+      "relation": "related_to",
+      "target": "flexibility"
+    },
+    {
+      "source": "Theframeofdata",
+      "relation": "related_to",
+      "target": "per-"
+    },
+    {
+      "source": "Itmainly",
+      "relation": "related_to",
+      "target": "global"
+    },
+    {
+      "source": "Itmainly",
+      "relation": "related_to",
+      "target": "solutions"
+    },
+    {
+      "source": "Itmainly",
+      "relation": "related_to",
+      "target": "with-"
+    },
+    {
+      "source": "Itmainly",
+      "relation": "related_to",
+      "target": "preprocessing"
+    },
+    {
+      "source": "Itmainly",
+      "relation": "related_to",
+      "target": "requirement"
+    },
+    {
+      "source": "parame-",
+      "relation": "related_to",
+      "target": "prob-"
+    },
+    {
+      "source": "parame-",
+      "relation": "related_to",
+      "target": "ters"
+    },
+    {
+      "source": "lems",
+      "relation": "related_to",
+      "target": "processes[35"
+    },
+    {
+      "source": "Thismethodisappliedtodeveloptheoptimalcontrolof",
+      "relation": "related_to",
+      "target": "experts(cid:48"
+    },
+    {
+      "source": "Thismethodisappliedtodeveloptheoptimalcontrolof",
+      "relation": "related_to",
+      "target": "experiences"
+    },
+    {
+      "source": "function",
+      "relation": "related_to",
+      "target": "goal"
+    },
+    {
+      "source": "function",
+      "relation": "related_to",
+      "target": "Satisfactory"
+    },
+    {
+      "source": "constraint",
+      "relation": "related_to",
+      "target": "Evolutionary"
+    },
+    {
+      "source": "constraint",
+      "relation": "related_to",
+      "target": "algorithm"
+    },
+    {
+      "source": "constraint",
+      "relation": "related_to",
+      "target": "genetic"
+    },
+    {
+      "source": "constraint",
+      "relation": "related_to",
+      "target": "ge-"
+    },
+    {
+      "source": "constraint",
+      "relation": "related_to",
+      "target": "Thecomplexitiesofthenonferrousmetallurgicalprocess"
+    },
+    {
+      "source": "constraint",
+      "relation": "related_to",
+      "target": "withnospecialrequirementsfortheoptimizationmodelin"
+    },
+    {
+      "source": "Chai",
+      "relation": "related_to",
+      "target": "al.[39"
+    },
+    {
+      "source": "Chai",
+      "relation": "related_to",
+      "target": "ified"
+    },
+    {
+      "source": "Chai",
+      "relation": "related_to",
+      "target": "features"
+    },
+    {
+      "source": "Chai",
+      "relation": "related_to",
+      "target": "flotation"
+    },
+    {
+      "source": "Chai",
+      "relation": "related_to",
+      "target": "mayoffergoodconditionsforsolvingengineeringoptimiza-"
+    },
+    {
+      "source": "Chai",
+      "relation": "related_to",
+      "target": "circuits"
+    },
+    {
+      "source": "Chai",
+      "relation": "related_to",
+      "target": "shaft"
+    },
+    {
+      "source": "Chai",
+      "relation": "related_to",
+      "target": "tionproblems"
+    },
+    {
+      "source": "Forrealnon",
+      "relation": "related_to",
+      "target": "ferrousmetallurgicalprocesses"
+    },
+    {
+      "source": "suchascasereasoning",
+      "relation": "related_to",
+      "target": "neuralnetwork"
+    },
+    {
+      "source": "self",
+      "relation": "related_to",
+      "target": "hybrid"
+    },
+    {
+      "source": "self",
+      "relation": "related_to",
+      "target": "experiencesandnotnecessarytomeeteveryboundarycon-"
+    },
+    {
+      "source": "self",
+      "relation": "related_to",
+      "target": "cess"
+    },
+    {
+      "source": "atpresent",
+      "relation": "related_to",
+      "target": "withtheconstraintstoconstructasatisfactorydegreefunc-"
+    },
+    {
+      "source": "Byadjustingthe",
+      "relation": "related_to",
+      "target": "processes[44"
+    },
+    {
+      "source": "thecomputationefficiency",
+      "relation": "related_to",
+      "target": "mizationmethodsinviewofdifferentprocesscharacteristics"
+    },
+    {
+      "source": "ment",
+      "relation": "related_to",
+      "target": "opera-"
+    },
+    {
+      "source": "ment",
+      "relation": "related_to",
+      "target": "tional"
+    },
+    {
+      "source": "Considertheblendingprocessofacopperflashsmelting",
+      "relation": "related_to",
+      "target": "Actually"
+    },
+    {
+      "source": "Considertheblendingprocessofacopperflashsmelting",
+      "relation": "related_to",
+      "target": "series"
+    },
+    {
+      "source": "Considertheblendingprocessofacopperflashsmelting",
+      "relation": "related_to",
+      "target": "goals"
+    },
+    {
+      "source": "Sincetheboundaryconstraintsarenotverystrict",
+      "relation": "related_to",
+      "target": "efficiency"
+    },
+    {
+      "source": "Sincetheboundaryconstraintsarenotverystrict",
+      "relation": "related_to",
+      "target": "Fig.4"
+    },
+    {
+      "source": "Sincetheboundaryconstraintsarenotverystrict",
+      "relation": "related_to",
+      "target": "Frameofdata"
+    },
+    {
+      "source": "Sincetheboundaryconstraintsarenotverystrict",
+      "relation": "related_to",
+      "target": "drivenoperationalpatternoptimization"
+    },
+    {
+      "source": "Sincetheboundaryconstraintsarenotverystrict",
+      "relation": "related_to",
+      "target": "boundary"
+    },
+    {
+      "source": "Sincetheboundaryconstraintsarenotverystrict",
+      "relation": "related_to",
+      "target": "value"
+    },
+    {
+      "source": "Sincetheboundaryconstraintsarenotverystrict",
+      "relation": "related_to",
+      "target": "adoptedtoadjusttheintermediateoptimizationtargetval-"
+    },
+    {
+      "source": "Sincetheboundaryconstraintsarenotverystrict",
+      "relation": "related_to",
+      "target": "functions"
+    },
+    {
+      "source": "Sincetheboundaryconstraintsarenotverystrict",
+      "relation": "related_to",
+      "target": "uestocoordinatethesesub"
+    },
+    {
+      "source": "Sincetheboundaryconstraintsarenotverystrict",
+      "relation": "related_to",
+      "target": "priority"
+    },
+    {
+      "source": "final",
+      "relation": "related_to",
+      "target": "re-"
+    },
+    {
+      "source": "decentralization",
+      "relation": "related_to",
+      "target": "A(p"
+    },
+    {
+      "source": "decentralization",
+      "relation": "related_to",
+      "target": "impacts"
+    },
+    {
+      "source": "decentralization",
+      "relation": "related_to",
+      "target": "weak-"
+    },
+    {
+      "source": "blending",
+      "relation": "related_to",
+      "target": "sit-"
+    },
+    {
+      "source": "blending",
+      "relation": "related_to",
+      "target": "limestone"
+    },
+    {
+      "source": "blending",
+      "relation": "related_to",
+      "target": "alkali"
+    },
+    {
+      "source": "blending",
+      "relation": "related_to",
+      "target": "powder"
+    },
+    {
+      "source": "blending",
+      "relation": "related_to",
+      "target": "uation"
+    },
+    {
+      "source": "larger",
+      "relation": "related_to",
+      "target": "likely"
+    },
+    {
+      "source": "larger",
+      "relation": "related_to",
+      "target": "thracite"
+    },
+    {
+      "source": "weintroducepgroups",
+      "relation": "related_to",
+      "target": "logical"
+    },
+    {
+      "source": "weintroducepgroups",
+      "relation": "related_to",
+      "target": "i=1,2"
+    },
+    {
+      "source": "weintroducepgroups",
+      "relation": "related_to",
+      "target": "inter-"
+    },
+    {
+      "source": "weintroducepgroups",
+      "relation": "related_to",
+      "target": "requiredingredientsforsinteringprocess"
+    },
+    {
+      "source": "min",
+      "relation": "related_to",
+      "target": "mediate"
+    },
+    {
+      "source": "blecompositionoforesourcessuppliedtotheprocess",
+      "relation": "related_to",
+      "target": "composition"
+    },
+    {
+      "source": "blecompositionoforesourcessuppliedtotheprocess",
+      "relation": "related_to",
+      "target": "difficulties"
+    },
+    {
+      "source": "blecompositionoforesourcessuppliedtotheprocess",
+      "relation": "related_to",
+      "target": "on-"
+    },
+    {
+      "source": "blecompositionoforesourcessuppliedtotheprocess",
+      "relation": "related_to",
+      "target": "equation"
+    },
+    {
+      "source": "blecompositionoforesourcessuppliedtotheprocess",
+      "relation": "related_to",
+      "target": "line"
+    },
+    {
+      "source": "blecompositionoforesourcessuppliedtotheprocess",
+      "relation": "related_to",
+      "target": "detection"
+    },
+    {
+      "source": "blecompositionoforesourcessuppliedtotheprocess",
+      "relation": "related_to",
+      "target": "bears"
+    },
+    {
+      "source": "A(i",
+      "relation": "related_to",
+      "target": "significantuncertainty"
+    },
+    {
+      "source": "stage",
+      "relation": "related_to",
+      "target": "method[46"
+    },
+    {
+      "source": "stage",
+      "relation": "related_to",
+      "target": "Fig.5"
+    },
+    {
+      "source": "stage",
+      "relation": "related_to",
+      "target": "realize"
+    },
+    {
+      "source": "stage",
+      "relation": "related_to",
+      "target": "proportioning"
+    },
+    {
+      "source": "stage",
+      "relation": "related_to",
+      "target": "ith"
+    },
+    {
+      "source": "stage",
+      "relation": "related_to",
+      "target": "satisfied"
+    },
+    {
+      "source": "Thereal",
+      "relation": "related_to",
+      "target": "timeadjustmentrulesineach"
+    },
+    {
+      "source": "Thereal",
+      "relation": "related_to",
+      "target": "ascendingorderaccordingtotheirprioritylevels"
+    },
+    {
+      "source": "decen-",
+      "relation": "related_to",
+      "target": "minimum"
+    },
+    {
+      "source": "decen-",
+      "relation": "related_to",
+      "target": "maximum"
+    },
+    {
+      "source": "decen-",
+      "relation": "related_to",
+      "target": "values"
+    },
+    {
+      "source": "decen-",
+      "relation": "related_to",
+      "target": "tralization"
+    },
+    {
+      "source": "straints",
+      "relation": "related_to",
+      "target": "updating"
+    },
+    {
+      "source": "asatisfactoryoptimizationmethod[45",
+      "relation": "related_to",
+      "target": "enterprise"
+    },
+    {
+      "source": "trolaccuracy",
+      "relation": "related_to",
+      "target": "stabilizesingredientqualityandreducespro-"
+    },
+    {
+      "source": "trolaccuracy",
+      "relation": "related_to",
+      "target": "duction"
+    },
+    {
+      "source": "inaccuracy",
+      "relation": "related_to",
+      "target": "themodels"
+    },
+    {
+      "source": "inaccuracy",
+      "relation": "related_to",
+      "target": "ambiguityofconstraints"
+    },
+    {
+      "source": "satisfaction",
+      "relation": "related_to",
+      "target": "Thenon"
+    },
+    {
+      "source": "satisfaction",
+      "relation": "related_to",
+      "target": "ferrousmetallurgicalprocessisalongprocedure"
+    },
+    {
+      "source": "diversity",
+      "relation": "related_to",
+      "target": "fuzziness"
+    },
+    {
+      "source": "diversity",
+      "relation": "related_to",
+      "target": "ob-"
+    },
+    {
+      "source": "Forapplications",
+      "relation": "related_to",
+      "target": "anuncertaintydecentral-"
+    },
+    {
+      "source": "Forapplications",
+      "relation": "related_to",
+      "target": "isfaction"
+    },
+    {
+      "source": "Forapplications",
+      "relation": "related_to",
+      "target": "degree"
+    },
+    {
+      "source": "Forapplications",
+      "relation": "related_to",
+      "target": "decision"
+    },
+    {
+      "source": "Forapplications",
+      "relation": "related_to",
+      "target": "makers"
+    },
+    {
+      "source": "Forapplications",
+      "relation": "related_to",
+      "target": "izationbasedoptimizationmethodfornonferrousmetallur-"
+    },
+    {
+      "source": "Forapplications",
+      "relation": "related_to",
+      "target": "indicators"
+    },
+    {
+      "source": "satisfac-",
+      "relation": "related_to",
+      "target": "ordinate"
+    },
+    {
+      "source": "satisfac-",
+      "relation": "related_to",
+      "target": "intermedi-"
+    },
+    {
+      "source": "satisfac-",
+      "relation": "related_to",
+      "target": "tory"
+    },
+    {
+      "source": "satisfac-",
+      "relation": "related_to",
+      "target": "target"
+    },
+    {
+      "source": "voltage",
+      "relation": "related_to",
+      "target": "power"
+    },
+    {
+      "source": "voltage",
+      "relation": "related_to",
+      "target": "grid"
+    },
+    {
+      "source": "voltage",
+      "relation": "related_to",
+      "target": "toryfunctions"
+    },
+    {
+      "source": "voltage",
+      "relation": "related_to",
+      "target": "regulating"
+    },
+    {
+      "source": "voltage",
+      "relation": "related_to",
+      "target": "transformer"
+    },
+    {
+      "source": "better",
+      "relation": "related_to",
+      "target": "zincelectrolyticprocessiscloselyrelatedtotheelectrolytic"
+    },
+    {
+      "source": "better",
+      "relation": "related_to",
+      "target": "evaluation"
+    },
+    {
+      "source": "acid",
+      "relation": "related_to",
+      "target": "Thepurposeofarealrawmaterialbauxiteblendingand"
+    },
+    {
+      "source": "acid",
+      "relation": "related_to",
+      "target": "electrolyte"
+    },
+    {
+      "source": "acid",
+      "relation": "related_to",
+      "target": "density"
+    },
+    {
+      "source": "acid",
+      "relation": "related_to",
+      "target": "impurity"
+    },
+    {
+      "source": "acid",
+      "relation": "related_to",
+      "target": "content"
+    },
+    {
+      "source": "acid",
+      "relation": "related_to",
+      "target": "convertingprocessistosupplyclinkerkilnwithacceptable"
+    },
+    {
+      "source": "acid",
+      "relation": "related_to",
+      "target": "electrolytic"
+    },
+    {
+      "source": "acid",
+      "relation": "related_to",
+      "target": "cycle"
+    },
+    {
+      "source": "atthesametime",
+      "relation": "related_to",
+      "target": "tomakefulluseofallconvert-"
+    },
+    {
+      "source": "atthesametime",
+      "relation": "related_to",
+      "target": "consump-"
+    },
+    {
+      "source": "atthesametime",
+      "relation": "related_to",
+      "target": "tanks"
+    },
+    {
+      "source": "find",
+      "relation": "related_to",
+      "target": "combination"
+    },
+    {
+      "source": "rectifier",
+      "relation": "related_to",
+      "target": "clinker"
+    },
+    {
+      "source": "rectifier",
+      "relation": "related_to",
+      "target": "kilns"
+    },
+    {
+      "source": "rectifier",
+      "relation": "related_to",
+      "target": "unitcanimprovetherectificationefficiencyandreducethe"
+    },
+    {
+      "source": "rectifier",
+      "relation": "related_to",
+      "target": "thesettingindexes"
+    },
+    {
+      "source": "rectifier",
+      "relation": "related_to",
+      "target": "powerconsumptionoftherectificationsystem"
+    },
+    {
+      "source": "policy",
+      "relation": "related_to",
+      "target": "peak"
+    },
+    {
+      "source": "policy",
+      "relation": "related_to",
+      "target": "valley"
+    },
+    {
+      "source": "policy",
+      "relation": "related_to",
+      "target": "electricity"
+    },
+    {
+      "source": "policy",
+      "relation": "related_to",
+      "target": "price"
+    },
+    {
+      "source": "policy",
+      "relation": "related_to",
+      "target": "combinatorial"
+    },
+    {
+      "source": "policy",
+      "relation": "related_to",
+      "target": "load"
+    },
+    {
+      "source": "policy",
+      "relation": "related_to",
+      "target": "means"
+    },
+    {
+      "source": "supply",
+      "relation": "related_to",
+      "target": "constant"
+    },
+    {
+      "source": "supply",
+      "relation": "related_to",
+      "target": "cost"
+    },
+    {
+      "source": "times",
+      "relation": "related_to",
+      "target": "Thearchitectureofthecomprehensiveoptimalcontrolof"
+    },
+    {
+      "source": "prehensive",
+      "relation": "related_to",
+      "target": "deposition"
+    },
+    {
+      "source": "prehensive",
+      "relation": "related_to",
+      "target": "Comprehensive"
+    },
+    {
+      "source": "prehensive",
+      "relation": "related_to",
+      "target": "andintelligentoptimizationcontrolofzincelectrolyticrec-"
+    },
+    {
+      "source": "prehensive",
+      "relation": "related_to",
+      "target": "tifierunit[20"
+    },
+    {
+      "source": "Thecomprehensiveoptimalcontrolinvolvesa",
+      "relation": "related_to",
+      "target": "seriesofkeytechniquesincludingenergyconsumptionmod-"
+    },
+    {
+      "source": "Thecomprehensiveoptimalcontrolinvolvesa",
+      "relation": "related_to",
+      "target": "hydrometallurgy"
+    },
+    {
+      "source": "Thecomprehensiveoptimalcontrolinvolvesa",
+      "relation": "related_to",
+      "target": "optimalpower"
+    },
+    {
+      "source": "Thecomprehensiveoptimalcontrolinvolvesa",
+      "relation": "related_to",
+      "target": "dispatching"
+    },
+    {
+      "source": "Thecomprehensiveoptimalcontrolinvolvesa",
+      "relation": "related_to",
+      "target": "electrolyticconditionsop-"
+    },
+    {
+      "source": "Thecomprehensiveoptimalcontrolinvolvesa",
+      "relation": "related_to",
+      "target": "intelligentcontroloftheelectrolytepreparation"
+    },
+    {
+      "source": "Thecomprehensiveoptimalcontrolinvolvesa",
+      "relation": "related_to",
+      "target": "TheZincelectrolyticprocessisthekeyprocessofzinchy-"
+    },
+    {
+      "source": "Thecomprehensiveoptimalcontrolinvolvesa",
+      "relation": "related_to",
+      "target": "drometallurgy"
+    },
+    {
+      "source": "Thecomprehensiveoptimalcontrolinvolvesa",
+      "relation": "related_to",
+      "target": "account-"
+    },
+    {
+      "source": "Thecomprehensiveoptimalcontrolinvolvesa",
+      "relation": "related_to",
+      "target": "precision"
+    },
+    {
+      "source": "Power",
+      "relation": "related_to",
+      "target": "Powerconsumptionmodelofthezincelectrolyticprocess"
+    },
+    {
+      "source": "average",
+      "relation": "related_to",
+      "target": "electrochemical"
+    },
+    {
+      "source": "cessesis3100kWh",
+      "relation": "related_to",
+      "target": "3300kWh"
+    },
+    {
+      "source": "cessesis3100kWh",
+      "relation": "related_to",
+      "target": "whileinadvancedfor-"
+    },
+    {
+      "source": "cessesis3100kWh",
+      "relation": "related_to",
+      "target": "eign"
+    },
+    {
+      "source": "cessesis3100kWh",
+      "relation": "related_to",
+      "target": "countries"
+    },
+    {
+      "source": "cessesis3100kWh",
+      "relation": "related_to",
+      "target": "3000kWh"
+    },
+    {
+      "source": "cessesis3100kWh",
+      "relation": "related_to",
+      "target": "3100kWh"
+    },
+    {
+      "source": "duce",
+      "relation": "related_to",
+      "target": "voltages"
+    },
+    {
+      "source": "great",
+      "relation": "related_to",
+      "target": "attention"
+    },
+    {
+      "source": "great",
+      "relation": "related_to",
+      "target": "enterprises"
+    },
+    {
+      "source": "cid:34",
+      "relation": "related_to",
+      "target": "RTln(1.1"
+    },
+    {
+      "source": "cid:161",
+      "relation": "related_to",
+      "target": "cid:162"
+    },
+    {
+      "source": "cid:161",
+      "relation": "related_to",
+      "target": "cation"
+    },
+    {
+      "source": "cid:161",
+      "relation": "related_to",
+      "target": "supplying"
+    },
+    {
+      "source": "RTln",
+      "relation": "related_to",
+      "target": "processpreparestheelectrolyticsolutionwithsuitablezinc"
+    },
+    {
+      "source": "RTln",
+      "relation": "related_to",
+      "target": "lgD+"
+    },
+    {
+      "source": "cid:35)(cid:193",
+      "relation": "related_to",
+      "target": "deposi-"
+    },
+    {
+      "source": "rectification",
+      "relation": "related_to",
+      "target": "Comprehensiveoptimalcontrolarchitectureofzincelectrolyticprocess"
+    },
+    {
+      "source": "rectification",
+      "relation": "related_to",
+      "target": "cid:179"
+    },
+    {
+      "source": "rectification",
+      "relation": "related_to",
+      "target": "a3+a4"
+    },
+    {
+      "source": "rectification",
+      "relation": "related_to",
+      "target": "lgD"
+    },
+    {
+      "source": "rectification",
+      "relation": "related_to",
+      "target": ".5a6"
+    },
+    {
+      "source": "centration",
+      "relation": "related_to",
+      "target": "electrolyticdepositionprocess"
+    },
+    {
+      "source": "centration",
+      "relation": "related_to",
+      "target": "arecurrentdensity(A"
+    },
+    {
+      "source": "centration",
+      "relation": "related_to",
+      "target": "period"
+    },
+    {
+      "source": "96500C",
+      "relation": "related_to",
+      "target": "mol"
+    },
+    {
+      "source": "96500C",
+      "relation": "related_to",
+      "target": "1istheFaradaycon-"
+    },
+    {
+      "source": "96500C",
+      "relation": "related_to",
+      "target": "objectivesandcomplexequalityandinequalityconstraints"
+    },
+    {
+      "source": "andb",
+      "relation": "related_to",
+      "target": "i=1"
+    },
+    {
+      "source": "andb",
+      "relation": "related_to",
+      "target": "6,aremodel"
+    },
+    {
+      "source": "andb",
+      "relation": "related_to",
+      "target": "elec-"
+    },
+    {
+      "source": "andb",
+      "relation": "related_to",
+      "target": "trolytic"
+    },
+    {
+      "source": "conditionsandcannotbecalculatedbasedonelectrochem-",
+      "relation": "related_to",
+      "target": "fan"
+    },
+    {
+      "source": "conditionsandcannotbecalculatedbasedonelectrochem-",
+      "relation": "related_to",
+      "target": "possible"
+    },
+    {
+      "source": "conditionsandcannotbecalculatedbasedonelectrochem-",
+      "relation": "related_to",
+      "target": "ical"
+    },
+    {
+      "source": "less",
+      "relation": "related_to",
+      "target": "3)Optimaloperationofelectrolyticrectifierunitoriented"
+    },
+    {
+      "source": "loss",
+      "relation": "related_to",
+      "target": "Multi"
+    },
+    {
+      "source": "loss",
+      "relation": "related_to",
+      "target": "TherearemanyrectifierunitsintheZincelectrolyticpro-"
+    },
+    {
+      "source": "losses",
+      "relation": "related_to",
+      "target": "units"
+    },
+    {
+      "source": "Theoptimaldispatchingoftime",
+      "relation": "related_to",
+      "target": "loadresultsinagreatfluctuationoftheDCloadduringzinc"
+    },
+    {
+      "source": "Theoptimaldispatchingoftime",
+      "relation": "related_to",
+      "target": "electrolyticprocess"
+    },
+    {
+      "source": "mini-",
+      "relation": "related_to",
+      "target": "cid:35"
+    },
+    {
+      "source": "mini-",
+      "relation": "related_to",
+      "target": "mum"
+    },
+    {
+      "source": "mini-",
+      "relation": "related_to",
+      "target": "minJ"
+    },
+    {
+      "source": "Theproposedcomprehensiveoptimalcontrolsystemhas",
+      "relation": "related_to",
+      "target": "s.t"
+    },
+    {
+      "source": "capacity",
+      "relation": "related_to",
+      "target": "tons"
+    },
+    {
+      "source": "capacity",
+      "relation": "related_to",
+      "target": "year"
+    },
+    {
+      "source": "Inthesystem",
+      "relation": "related_to",
+      "target": "ditions"
+    },
+    {
+      "source": "40000000kWh",
+      "relation": "related_to",
+      "target": "enter-"
+    },
+    {
+      "source": "40000000kWh",
+      "relation": "related_to",
+      "target": "prise"
+    },
+    {
+      "source": "sensor",
+      "relation": "related_to",
+      "target": "allocation"
+    },
+    {
+      "source": "sensor",
+      "relation": "related_to",
+      "target": "worth"
+    },
+    {
+      "source": "accounts",
+      "relation": "related_to",
+      "target": "country(cid:48)s"
+    },
+    {
+      "source": "accounts",
+      "relation": "related_to",
+      "target": "total"
+    },
+    {
+      "source": "uncertainty",
+      "relation": "related_to",
+      "target": "relation-"
+    },
+    {
+      "source": "uncertainty",
+      "relation": "related_to",
+      "target": "vironmental"
+    },
+    {
+      "source": "uncertainty",
+      "relation": "related_to",
+      "target": "protection"
+    },
+    {
+      "source": "ships",
+      "relation": "related_to",
+      "target": "slow"
+    },
+    {
+      "source": "ships",
+      "relation": "related_to",
+      "target": "tionfornonferrousmetallurgicalprocesses"
+    },
+    {
+      "source": "ships",
+      "relation": "related_to",
+      "target": "modernnonfer-"
+    },
+    {
+      "source": "ships",
+      "relation": "related_to",
+      "target": "large-"
+    },
+    {
+      "source": "ships",
+      "relation": "related_to",
+      "target": "important"
+    },
+    {
+      "source": "ships",
+      "relation": "related_to",
+      "target": "issue"
+    },
+    {
+      "source": "critical",
+      "relation": "related_to",
+      "target": "reinforcement"
+    },
+    {
+      "source": "critical",
+      "relation": "related_to",
+      "target": "functional"
+    },
+    {
+      "source": "extensive",
+      "relation": "related_to",
+      "target": "relevant"
+    },
+    {
+      "source": "extensive",
+      "relation": "related_to",
+      "target": "intensive"
+    },
+    {
+      "source": "necessary",
+      "relation": "related_to",
+      "target": "tionship"
+    },
+    {
+      "source": "necessary",
+      "relation": "related_to",
+      "target": "trends"
+    },
+    {
+      "source": "necessary",
+      "relation": "related_to",
+      "target": "execution"
+    },
+    {
+      "source": "necessary",
+      "relation": "related_to",
+      "target": "challengesformodelingandoptimizationinnonferrousmet-"
+    },
+    {
+      "source": "necessary",
+      "relation": "related_to",
+      "target": "accordingtothequantifiedcredibilityindexes"
+    },
+    {
+      "source": "ther",
+      "relation": "related_to",
+      "target": "work"
+    },
+    {
+      "source": "ther",
+      "relation": "related_to",
+      "target": "cor-"
+    },
+    {
+      "source": "ther",
+      "relation": "related_to",
+      "target": "rection"
+    },
+    {
+      "source": "Themethodincludesdetectingthesteady",
+      "relation": "related_to",
+      "target": "stateofthepro-"
+    },
+    {
+      "source": "Themethodincludesdetectingthesteady",
+      "relation": "related_to",
+      "target": "whetherthesampledataisreliabletobeusedforthemodel"
+    },
+    {
+      "source": "Themethodincludesdetectingthesteady",
+      "relation": "related_to",
+      "target": "founda-"
+    },
+    {
+      "source": "mass",
+      "relation": "related_to",
+      "target": "transmission"
+    },
+    {
+      "source": "mass",
+      "relation": "related_to",
+      "target": "polyphase"
+    },
+    {
+      "source": "micro-",
+      "relation": "related_to",
+      "target": "mesoscale"
+    },
+    {
+      "source": "micro-",
+      "relation": "related_to",
+      "target": "modern"
+    },
+    {
+      "source": "micro-",
+      "relation": "related_to",
+      "target": "natural"
+    },
+    {
+      "source": "micro-",
+      "relation": "related_to",
+      "target": "transforma-"
+    },
+    {
+      "source": "micro-",
+      "relation": "related_to",
+      "target": "alarge"
+    },
+    {
+      "source": "micro-",
+      "relation": "related_to",
+      "target": "scaleprocesswithlongprocedure"
+    },
+    {
+      "source": "micro-",
+      "relation": "related_to",
+      "target": "highenergycon-"
+    },
+    {
+      "source": "micro-",
+      "relation": "related_to",
+      "target": "tionbehaviorofthemetallurgicalreactionprocess"
+    },
+    {
+      "source": "micro-",
+      "relation": "related_to",
+      "target": "butalso"
+    },
+    {
+      "source": "micro-",
+      "relation": "related_to",
+      "target": "sumption"
+    },
+    {
+      "source": "macro",
+      "relation": "related_to",
+      "target": "uti-"
+    },
+    {
+      "source": "Operation",
+      "relation": "related_to",
+      "target": "interaction"
+    },
+    {
+      "source": "Operation",
+      "relation": "related_to",
+      "target": "economical"
+    },
+    {
+      "source": "Operation",
+      "relation": "related_to",
+      "target": "security"
+    },
+    {
+      "source": "equality",
+      "relation": "related_to",
+      "target": "inequality"
+    },
+    {
+      "source": "isticssuchasnon",
+      "relation": "related_to",
+      "target": "steadyandnon-"
+    },
+    {
+      "source": "isticssuchasnon",
+      "relation": "related_to",
+      "target": "feasible"
+    },
+    {
+      "source": "domain",
+      "relation": "related_to",
+      "target": "exist-"
+    },
+    {
+      "source": "domain",
+      "relation": "related_to",
+      "target": "speed"
+    },
+    {
+      "source": "dimensional",
+      "relation": "related_to",
+      "target": "simple"
+    },
+    {
+      "source": "dimensional",
+      "relation": "related_to",
+      "target": "mation"
+    },
+    {
+      "source": "dimensional",
+      "relation": "related_to",
+      "target": "interconnection"
+    },
+    {
+      "source": "dimensional",
+      "relation": "related_to",
+      "target": "internal"
+    },
+    {
+      "source": "delivery",
+      "relation": "related_to",
+      "target": "as-"
+    },
+    {
+      "source": "delivery",
+      "relation": "related_to",
+      "target": "refinement"
+    },
+    {
+      "source": "delivery",
+      "relation": "related_to",
+      "target": "sumptionofthe"
+    },
+    {
+      "source": "delivery",
+      "relation": "related_to",
+      "target": "CSTRmodelthat"
+    },
+    {
+      "source": "delivery",
+      "relation": "related_to",
+      "target": "theparametersare"
+    },
+    {
+      "source": "delivery",
+      "relation": "related_to",
+      "target": "uni-"
+    },
+    {
+      "source": "delivery",
+      "relation": "related_to",
+      "target": "challenge"
+    },
+    {
+      "source": "implicit",
+      "relation": "related_to",
+      "target": "func-"
+    },
+    {
+      "source": "implicit",
+      "relation": "related_to",
+      "target": "essential"
+    },
+    {
+      "source": "implicit",
+      "relation": "related_to",
+      "target": "themacrobehavioroftheprocessandthemicromechanism"
+    },
+    {
+      "source": "oftransmission",
+      "relation": "related_to",
+      "target": "reactionprocessandtomodelthetimedis-"
+    },
+    {
+      "source": "oftransmission",
+      "relation": "related_to",
+      "target": "processesisoftenanimplicitfunctionoftheoperatingvari-"
+    },
+    {
+      "source": "oftransmission",
+      "relation": "related_to",
+      "target": "tribution"
+    },
+    {
+      "source": "oftransmission",
+      "relation": "related_to",
+      "target": "spatial"
+    },
+    {
+      "source": "oftransmission",
+      "relation": "related_to",
+      "target": "distribution"
+    },
+    {
+      "source": "feature",
+      "relation": "related_to",
+      "target": "serious"
+    },
+    {
+      "source": "feature",
+      "relation": "related_to",
+      "target": "tributedparameterfieldofnonferrousmetallurgicalprocess"
+    },
+    {
+      "source": "feature",
+      "relation": "related_to",
+      "target": "emissions"
+    },
+    {
+      "source": "infinite",
+      "relation": "related_to",
+      "target": "explicit"
+    },
+    {
+      "source": "infinite",
+      "relation": "related_to",
+      "target": "formula"
+    },
+    {
+      "source": "infinite",
+      "relation": "related_to",
+      "target": "physicalparameterfields"
+    },
+    {
+      "source": "expression",
+      "relation": "related_to",
+      "target": "trol"
+    },
+    {
+      "source": "expression",
+      "relation": "related_to",
+      "target": "finite"
+    },
+    {
+      "source": "Howtorealizethemeasurementoftheinfinite",
+      "relation": "related_to",
+      "target": "ablesarecontainedintheothersystemmodelsimplicitly;c"
+    },
+    {
+      "source": "Howtorealizethemeasurementoftheinfinite",
+      "relation": "related_to",
+      "target": "sensors"
+    },
+    {
+      "source": "Howtorealizethemeasurementoftheinfinite",
+      "relation": "related_to",
+      "target": "challenging"
+    },
+    {
+      "source": "Forthesecomplexities",
+      "relation": "related_to",
+      "target": "howtosolvetheoptimiza-"
+    },
+    {
+      "source": "Forthesecomplexities",
+      "relation": "related_to",
+      "target": "distribu-"
+    },
+    {
+      "source": "Forthesecomplexities",
+      "relation": "related_to",
+      "target": "tionproblemswithimplicitobjectivefunctionsandachieve"
+    },
+    {
+      "source": "Forthesecomplexities",
+      "relation": "related_to",
+      "target": "tionmodel"
+    },
+    {
+      "source": "update",
+      "relation": "related_to",
+      "target": "interesting"
+    },
+    {
+      "source": "update",
+      "relation": "related_to",
+      "target": "subjects"
+    },
+    {
+      "source": "3)Operationoptimizationwithmulti",
+      "relation": "related_to",
+      "target": "modelpresentation"
+    },
+    {
+      "source": "3)Operationoptimizationwithmulti",
+      "relation": "related_to",
+      "target": "locatedappropriatelytoimprovedetectionaccuracy"
+    },
+    {
+      "source": "mostoftherecentresearchesonoptimizingsensoral-",
+      "relation": "related_to",
+      "target": "modelintegrated"
+    },
+    {
+      "source": "Theyincludemodelswithdifferent",
+      "relation": "related_to",
+      "target": "locationarebasedonstructuralmodalparameters"
+    },
+    {
+      "source": "Theyincludemodelswithdifferent",
+      "relation": "related_to",
+      "target": "whichis"
+    },
+    {
+      "source": "Theyincludemodelswithdifferent",
+      "relation": "related_to",
+      "target": "andconstraintequations"
+    },
+    {
+      "source": "Theymayalsocontainmodelsto",
+      "relation": "related_to",
+      "target": "expressdifferentinformation"
+    },
+    {
+      "source": "Theymayalsocontainmodelsto",
+      "relation": "related_to",
+      "target": "suchasknowledgeexpression"
+    },
+    {
+      "source": "Theymayalsocontainmodelsto",
+      "relation": "related_to",
+      "target": "dataidentificationandmechanisticmodel"
+    },
+    {
+      "source": "GuiWei",
+      "relation": "related_to",
+      "target": "YangChun"
+    },
+    {
+      "source": "IntelligentModeling",
+      "relation": "related_to",
+      "target": "Con-"
+    },
+    {
+      "source": "IntelligentModeling",
+      "relation": "related_to",
+      "target": "tives"
+    },
+    {
+      "source": "trolandOptimizationofComplexNonferrousMetallurgical",
+      "relation": "related_to",
+      "target": "tothe"
+    },
+    {
+      "source": "trolandOptimizationofComplexNonferrousMetallurgical",
+      "relation": "related_to",
+      "target": "hybridmodelpresentationshould"
+    },
+    {
+      "source": "trolandOptimizationofComplexNonferrousMetallurgical",
+      "relation": "related_to",
+      "target": "beinvestigatedto"
+    },
+    {
+      "source": "Beijing",
+      "relation": "related_to",
+      "target": "SciencePress,2010(inChinese"
+    },
+    {
+      "source": "Hodouin",
+      "relation": "related_to",
+      "target": "Methods"
+    },
+    {
+      "source": "Hodouin",
+      "relation": "related_to",
+      "target": "observation"
+    },
+    {
+      "source": "Hodouin",
+      "relation": "related_to",
+      "target": "4)Trajectoryoptimizationofworkingpointmigrationin"
+    },
+    {
+      "source": "Hodouin",
+      "relation": "related_to",
+      "target": "plants"
+    },
+    {
+      "source": "Journal",
+      "relation": "related_to",
+      "target": "ProcessControl,2011,21"
+    },
+    {
+      "source": "Journal",
+      "relation": "related_to",
+      "target": "KomulainenT"
+    },
+    {
+      "source": "Journal",
+      "relation": "related_to",
+      "target": "PekkalaP"
+    },
+    {
+      "source": "Journal",
+      "relation": "related_to",
+      "target": "RantalaA"
+    },
+    {
+      "source": "Journal",
+      "relation": "related_to",
+      "target": "amsa"
+    },
+    {
+      "source": "Journal",
+      "relation": "related_to",
+      "target": "-JounelaSL"
+    },
+    {
+      "source": "Dynamic",
+      "relation": "related_to",
+      "target": "modelling"
+    },
+    {
+      "source": "Dynamic",
+      "relation": "related_to",
+      "target": "solvent"
+    },
+    {
+      "source": "Dynamic",
+      "relation": "related_to",
+      "target": "extrac-"
+    },
+    {
+      "source": "Dynamic",
+      "relation": "related_to",
+      "target": "tionprocess"
+    },
+    {
+      "source": "Hydrometallurgy,2006,81",
+      "relation": "related_to",
+      "target": "external"
+    },
+    {
+      "source": "StadlerS",
+      "relation": "related_to",
+      "target": "EksteenJJ"
+    },
+    {
+      "source": "StadlerS",
+      "relation": "related_to",
+      "target": "AldrichC.Physicalmodellingofslag"
+    },
+    {
+      "source": "StadlerS",
+      "relation": "related_to",
+      "target": "foamingintwo"
+    },
+    {
+      "source": "StadlerS",
+      "relation": "related_to",
+      "target": "phaseandthree"
+    },
+    {
+      "source": "StadlerS",
+      "relation": "related_to",
+      "target": "phasesystemsinthechurn-"
+    },
+    {
+      "source": "StadlerS",
+      "relation": "related_to",
+      "target": "itcostslongtimeandhugeenergytomaketheprocessmi-"
+    },
+    {
+      "source": "StadlerS",
+      "relation": "related_to",
+      "target": "flowregime"
+    },
+    {
+      "source": "WangXL",
+      "relation": "related_to",
+      "target": "YangCH"
+    },
+    {
+      "source": "WangXL",
+      "relation": "related_to",
+      "target": "GuiWH"
+    },
+    {
+      "source": "WangXL",
+      "relation": "related_to",
+      "target": "WangYL.Wetgrindability"
+    },
+    {
+      "source": "InternationalJournalofMineral",
+      "relation": "related_to",
+      "target": "time-"
+    },
+    {
+      "source": "InternationalJournalofMineral",
+      "relation": "related_to",
+      "target": "Processing,2011,98(1"
+    },
+    {
+      "source": "InternationalJournalofMineral",
+      "relation": "related_to",
+      "target": "delaysandcouplingtime"
+    },
+    {
+      "source": "InternationalJournalofMineral",
+      "relation": "related_to",
+      "target": "Gui"
+    },
+    {
+      "source": "InternationalJournalofMineral",
+      "relation": "related_to",
+      "target": "Yang"
+    },
+    {
+      "source": "InternationalJournalofMineral",
+      "relation": "related_to",
+      "target": "Composition"
+    },
+    {
+      "source": "InternationalJournalofMineral",
+      "relation": "related_to",
+      "target": "relative"
+    },
+    {
+      "source": "InternationalJournalofMineral",
+      "relation": "related_to",
+      "target": "basedintelligentoptimisationforlead"
+    },
+    {
+      "source": "InternationalJournalofMineral",
+      "relation": "related_to",
+      "target": "zincsintering"
+    },
+    {
+      "source": "Measurement",
+      "relation": "related_to",
+      "target": "saving"
+    },
+    {
+      "source": "Measurement",
+      "relation": "related_to",
+      "target": "reduction"
+    },
+    {
+      "source": "Qiu",
+      "relation": "related_to",
+      "target": "Zhu"
+    },
+    {
+      "source": "Qiu",
+      "relation": "related_to",
+      "target": "Xian"
+    },
+    {
+      "source": "Metals",
+      "relation": "related_to",
+      "target": "Metallurgy"
+    },
+    {
+      "source": "MetallurgicalIndustryPress,1988(inChinese",
+      "relation": "related_to",
+      "target": "Sincemostofthenonferrousmetallurgicalreactionstake"
+    },
+    {
+      "source": "MetallurgicalIndustryPress,1988(inChinese",
+      "relation": "related_to",
+      "target": "Yong"
+    },
+    {
+      "source": "MetallurgicalIndustryPress,1988(inChinese",
+      "relation": "related_to",
+      "target": "Gang"
+    },
+    {
+      "source": "MetallurgicalIndustryPress,1988(inChinese",
+      "relation": "related_to",
+      "target": "place"
+    },
+    {
+      "source": "MetallurgicalIndustryPress,1988(inChinese",
+      "relation": "related_to",
+      "target": "closed"
+    },
+    {
+      "source": "MetallurgicalIndustryPress,1988(inChinese",
+      "relation": "related_to",
+      "target": "containers"
+    },
+    {
+      "source": "MetallurgicalIndustryPress,1988(inChinese",
+      "relation": "related_to",
+      "target": "distributions"
+    },
+    {
+      "source": "MetallurgicalIndustryPress,1988(inChinese",
+      "relation": "related_to",
+      "target": "Jun"
+    },
+    {
+      "source": "MetallurgicalIndustryPress,1988(inChinese",
+      "relation": "related_to",
+      "target": "YinLin"
+    },
+    {
+      "source": "Data",
+      "relation": "related_to",
+      "target": "drivenoperational"
+    },
+    {
+      "source": "Data",
+      "relation": "related_to",
+      "target": "patternoptimiza-"
+    },
+    {
+      "source": "Acta",
+      "relation": "related_to",
+      "target": "Automatica"
+    },
+    {
+      "source": "Acta",
+      "relation": "related_to",
+      "target": "Sinica,2009,35"
+    },
+    {
+      "source": "Acta",
+      "relation": "related_to",
+      "target": "724(inChinese"
+    },
+    {
+      "source": "Acta",
+      "relation": "related_to",
+      "target": "limited"
+    },
+    {
+      "source": "num-",
+      "relation": "related_to",
+      "target": "berofoperationalvariablesissmallbutthenumberofstate"
+    },
+    {
+      "source": "num-",
+      "relation": "related_to",
+      "target": "Hoang"
+    },
+    {
+      "source": "num-",
+      "relation": "related_to",
+      "target": "Couenne"
+    },
+    {
+      "source": "num-",
+      "relation": "related_to",
+      "target": "Jallut"
+    },
+    {
+      "source": "num-",
+      "relation": "related_to",
+      "target": "Gorrec"
+    },
+    {
+      "source": "port",
+      "relation": "related_to",
+      "target": "Hamiltonianapproachtomodelingandcontrolofcontinu-"
+    },
+    {
+      "source": "JournalofProcessControl,2011",
+      "relation": "related_to",
+      "target": "sult"
+    },
+    {
+      "source": "JournalofProcessControl,2011",
+      "relation": "related_to",
+      "target": "avaJ"
+    },
+    {
+      "source": "JournalofProcessControl,2011",
+      "relation": "related_to",
+      "target": "Marko"
+    },
+    {
+      "source": "JournalofProcessControl,2011",
+      "relation": "related_to",
+      "target": "sJ.Modellingofreactivesepa-"
+    },
+    {
+      "source": "JournalofProcessControl,2011",
+      "relation": "related_to",
+      "target": "low"
+    },
+    {
+      "source": "JournalofProcessControl,2011",
+      "relation": "related_to",
+      "target": "rationsincludingfastchemicalreactionsinCSTR.Chemi-"
+    },
+    {
+      "source": "building",
+      "relation": "related_to",
+      "target": "calEngineeringJournal,2008,139"
+    },
+    {
+      "source": "building",
+      "relation": "related_to",
+      "target": "orassociatedcompensationmodeltodescribetherelation-"
+    },
+    {
+      "source": "Takinoue",
+      "relation": "related_to",
+      "target": "Mori"
+    },
+    {
+      "source": "Takinoue",
+      "relation": "related_to",
+      "target": "Yoshikawa"
+    },
+    {
+      "source": "Takinoue",
+      "relation": "related_to",
+      "target": "Extended"
+    },
+    {
+      "source": "Takinoue",
+      "relation": "related_to",
+      "target": "states"
+    },
+    {
+      "source": "Takinoue",
+      "relation": "related_to",
+      "target": "ECSTR"
+    },
+    {
+      "source": "Takinoue",
+      "relation": "related_to",
+      "target": "todeterminetheoptimalcombinationoftheoperationand"
+    },
+    {
+      "source": "Takinoue",
+      "relation": "related_to",
+      "target": "life"
+    },
+    {
+      "source": "Takinoue",
+      "relation": "related_to",
+      "target": "open"
+    },
+    {
+      "source": "temporal",
+      "relation": "related_to",
+      "target": "orders"
+    },
+    {
+      "source": "temporal",
+      "relation": "related_to",
+      "target": "ChemicalPhysicsLetters,2009,476(4"
+    },
+    {
+      "source": "Young",
+      "relation": "related_to",
+      "target": "Chen"
+    },
+    {
+      "source": "Young",
+      "relation": "related_to",
+      "target": "Conclusion"
+    },
+    {
+      "source": "Young",
+      "relation": "related_to",
+      "target": "sodiumaluminatesolution"
+    },
+    {
+      "source": "Young",
+      "relation": "related_to",
+      "target": "TheCanadianJournalofChem-"
+    },
+    {
+      "source": "WangLY",
+      "relation": "related_to",
+      "target": "TeoKL"
+    },
+    {
+      "source": "WangLY",
+      "relation": "related_to",
+      "target": "LoxtonR"
+    },
+    {
+      "source": "WangLY",
+      "relation": "related_to",
+      "target": "YangCH.Time"
+    },
+    {
+      "source": "WangLY",
+      "relation": "related_to",
+      "target": "Thecharacteristicsofnonferrousmetallurgicalprocesses"
+    },
+    {
+      "source": "WangLY",
+      "relation": "related_to",
+      "target": "character-"
+    },
+    {
+      "source": "WangLY",
+      "relation": "related_to",
+      "target": "products"
+    },
+    {
+      "source": "WangLY",
+      "relation": "related_to",
+      "target": "tech-"
+    },
+    {
+      "source": "istictimepoints",
+      "relation": "related_to",
+      "target": "computationandindustrialapplications"
+    },
+    {
+      "source": "niques",
+      "relation": "related_to",
+      "target": "se-"
+    },
+    {
+      "source": "niques",
+      "relation": "related_to",
+      "target": "JournalofIndustrialandManagementOptimization,2009"
+    },
+    {
+      "source": "niques",
+      "relation": "related_to",
+      "target": "rious"
+    },
+    {
+      "source": "niques",
+      "relation": "related_to",
+      "target": "associated"
+    },
+    {
+      "source": "niques",
+      "relation": "related_to",
+      "target": "characteristic"
+    },
+    {
+      "source": "niques",
+      "relation": "related_to",
+      "target": "diffi-"
+    },
+    {
+      "source": "niques",
+      "relation": "related_to",
+      "target": "culties"
+    },
+    {
+      "source": "AraromiDO",
+      "relation": "related_to",
+      "target": "AfolabiTJ"
+    },
+    {
+      "source": "AraromiDO",
+      "relation": "related_to",
+      "target": "AlokoD.Neuralnetworkcontrol"
+    },
+    {
+      "source": "AraromiDO",
+      "relation": "related_to",
+      "target": "techniques"
+    },
+    {
+      "source": "AraromiDO",
+      "relation": "related_to",
+      "target": "reversible"
+    },
+    {
+      "source": "AraromiDO",
+      "relation": "related_to",
+      "target": "reverence"
+    },
+    {
+      "source": "AraromiDO",
+      "relation": "related_to",
+      "target": "proach"
+    },
+    {
+      "source": "LeonardoJournalofSciences,2007,10(1",
+      "relation": "related_to",
+      "target": "software"
+    },
+    {
+      "source": "LeonardoJournalofSciences,2007,10(1",
+      "relation": "related_to",
+      "target": "unsatisfactory"
+    },
+    {
+      "source": "LeonardoJournalofSciences,2007,10(1",
+      "relation": "related_to",
+      "target": "performances"
+    },
+    {
+      "source": "LeonardoJournalofSciences,2007,10(1",
+      "relation": "related_to",
+      "target": "severelyhindertheproductionlevelinChina"
+    },
+    {
+      "source": "Attaran",
+      "relation": "related_to",
+      "target": "Abdullah"
+    },
+    {
+      "source": "Attaran",
+      "relation": "related_to",
+      "target": "gineering"
+    },
+    {
+      "source": "mal",
+      "relation": "related_to",
+      "target": "RBF"
+    },
+    {
+      "source": "Proceedings",
+      "relation": "related_to",
+      "target": "ofthe2011InternationalConferenceonModeling"
+    },
+    {
+      "source": "Proceedings",
+      "relation": "related_to",
+      "target": "Simula-"
+    },
+    {
+      "source": "Proceedings",
+      "relation": "related_to",
+      "target": "tionandAppliedOptimization(ICMSAO).KualaLumpur"
+    },
+    {
+      "source": "USA",
+      "relation": "related_to",
+      "target": "IEEE,2011.1"
+    },
+    {
+      "source": "LiYG",
+      "relation": "related_to",
+      "target": "ZhuHQ"
+    },
+    {
+      "source": "LiYG",
+      "relation": "related_to",
+      "target": "ChaiQQ.Optimal"
+    },
+    {
+      "source": "LiYG",
+      "relation": "related_to",
+      "target": "lutantemissionreduction"
+    },
+    {
+      "source": "LiYG",
+      "relation": "related_to",
+      "target": "somechallengesofmodelingand"
+    },
+    {
+      "source": "Babu",
+      "relation": "related_to",
+      "target": "skaR"
+    },
+    {
+      "source": "Babu",
+      "relation": "related_to",
+      "target": "vanCanHJL.Fuzzymodel-"
+    },
+    {
+      "source": "Babu",
+      "relation": "related_to",
+      "target": "enzymatic"
+    },
+    {
+      "source": "Babu",
+      "relation": "related_to",
+      "target": "penicillin"
+    },
+    {
+      "source": "Ap-",
+      "relation": "related_to",
+      "target": "science"
+    },
+    {
+      "source": "motivatetheprogresstobreaktheconstraintsinresources",
+      "relation": "related_to",
+      "target": "Liau"
+    },
+    {
+      "source": "motivatetheprogresstobreaktheconstraintsinresources",
+      "relation": "related_to",
+      "target": "Tsai"
+    },
+    {
+      "source": "motivatetheprogresstobreaktheconstraintsinresources",
+      "relation": "related_to",
+      "target": "Expert"
+    },
+    {
+      "source": "motivatetheprogresstobreaktheconstraintsinresources",
+      "relation": "related_to",
+      "target": "environment"
+    },
+    {
+      "source": "motivatetheprogresstobreaktheconstraintsinresources",
+      "relation": "related_to",
+      "target": "crude"
+    },
+    {
+      "source": "motivatetheprogresstobreaktheconstraintsinresources",
+      "relation": "related_to",
+      "target": "oil"
+    },
+    {
+      "source": "motivatetheprogresstobreaktheconstraintsinresources",
+      "relation": "related_to",
+      "target": "distillation"
+    },
+    {
+      "source": "Systems",
+      "relation": "related_to",
+      "target": "Applications"
+    },
+    {
+      "source": "Systems",
+      "relation": "related_to",
+      "target": "tomation"
+    },
+    {
+      "source": "Systems",
+      "relation": "related_to",
+      "target": "informatization"
+    },
+    {
+      "source": "References",
+      "relation": "related_to",
+      "target": "malpower"
+    },
+    {
+      "source": "References",
+      "relation": "related_to",
+      "target": "dispatchingsystemusingneuralnetworksforthe"
+    },
+    {
+      "source": "References",
+      "relation": "related_to",
+      "target": "electrochemicalprocessofzincdependingonvaryingprices"
+    },
+    {
+      "source": "References",
+      "relation": "related_to",
+      "target": "TwelfthFive"
+    },
+    {
+      "source": "References",
+      "relation": "related_to",
+      "target": "Year"
+    },
+    {
+      "source": "References",
+      "relation": "related_to",
+      "target": "DevelopmentPlanofNonferrous"
+    },
+    {
+      "source": "References",
+      "relation": "related_to",
+      "target": "ofelectricity"
+    },
+    {
+      "source": "References",
+      "relation": "related_to",
+      "target": "IEEETransactionsonNeuralNetworks,2002"
+    },
+    {
+      "source": "References",
+      "relation": "related_to",
+      "target": "Industry"
+    },
+    {
+      "source": "MinistryofIndustryandInformationTechnology",
+      "relation": "related_to",
+      "target": "ChaiTY"
+    },
+    {
+      "source": "MinistryofIndustryandInformationTechnology",
+      "relation": "related_to",
+      "target": "ZhaiLF"
+    },
+    {
+      "source": "MinistryofIndustryandInformationTechnology",
+      "relation": "related_to",
+      "target": "YueH.Multiplemodelsandneuralnet-"
+    },
+    {
+      "source": "Jian",
+      "relation": "related_to",
+      "target": "Zhang"
+    },
+    {
+      "source": "Jian",
+      "relation": "related_to",
+      "target": "Yue"
+    },
+    {
+      "source": "Jian",
+      "relation": "related_to",
+      "target": "Heng"
+    },
+    {
+      "source": "Jian",
+      "relation": "related_to",
+      "target": "Tian"
+    },
+    {
+      "source": "worksbaseddecouplingcontrolofballmillcoal",
+      "relation": "related_to",
+      "target": "telligentoptimalcontrolbasedonCBRforfusedmagnesia"
+    },
+    {
+      "source": "China),2008,59",
+      "relation": "related_to",
+      "target": "1690(inChinese"
+    },
+    {
+      "source": "QiaoJH",
+      "relation": "related_to",
+      "target": "meal"
+    },
+    {
+      "source": "QiaoJH",
+      "relation": "related_to",
+      "target": "calcination"
+    },
+    {
+      "source": "Geng",
+      "relation": "related_to",
+      "target": "Zeng"
+    },
+    {
+      "source": "Control,2012,22",
+      "relation": "related_to",
+      "target": "dexsettingforflotationprocessbyCBR.JournalofNorth-"
+    },
+    {
+      "source": "Control,2012,22",
+      "relation": "related_to",
+      "target": "easternUniversity(NaturalScience),2008,29"
+    },
+    {
+      "source": "Control,2012,22",
+      "relation": "related_to",
+      "target": "WangFL"
+    },
+    {
+      "source": "Control,2012,22",
+      "relation": "related_to",
+      "target": "HeDK"
+    },
+    {
+      "source": "Control,2012,22",
+      "relation": "related_to",
+      "target": "JiaRD.Real"
+    },
+    {
+      "source": "Control,2012,22",
+      "relation": "related_to",
+      "target": "timeproduct"
+    },
+    {
+      "source": "Control,2012,22",
+      "relation": "related_to",
+      "target": "inChinese"
+    },
+    {
+      "source": "Control,2012,22",
+      "relation": "related_to",
+      "target": "squares"
+    },
+    {
+      "source": "Control,2012,22",
+      "relation": "related_to",
+      "target": "regression"
+    },
+    {
+      "source": "Computers",
+      "relation": "related_to",
+      "target": "Zhou"
+    },
+    {
+      "source": "Computers",
+      "relation": "related_to",
+      "target": "ChemicalEngineering,2012,36"
+    },
+    {
+      "source": "IEEE",
+      "relation": "related_to",
+      "target": "Transactions"
+    },
+    {
+      "source": "IEEE",
+      "relation": "related_to",
+      "target": "Engineer-"
+    },
+    {
+      "source": "IEEE",
+      "relation": "related_to",
+      "target": "ZhaoCH"
+    },
+    {
+      "source": "IEEE",
+      "relation": "related_to",
+      "target": "LuNY"
+    },
+    {
+      "source": "IEEE",
+      "relation": "related_to",
+      "target": "JiaMX.Stage"
+    },
+    {
+      "source": "IEEE",
+      "relation": "related_to",
+      "target": "basedsoft-"
+    },
+    {
+      "source": "IEEE",
+      "relation": "related_to",
+      "target": "ing,2009,6"
+    },
+    {
+      "source": "IEEE",
+      "relation": "related_to",
+      "target": "PCA"
+    },
+    {
+      "source": "IEEE",
+      "relation": "related_to",
+      "target": "monitoring"
+    },
+    {
+      "source": "IEEE",
+      "relation": "related_to",
+      "target": "strategy"
+    },
+    {
+      "source": "DingJL",
+      "relation": "related_to",
+      "target": "optimaloperationofshaftfurnaceroastingprocess"
+    },
+    {
+      "source": "ChangYu",
+      "relation": "related_to",
+      "target": "Qing"
+    },
+    {
+      "source": "ChangYu",
+      "relation": "related_to",
+      "target": "WangXiao"
+    },
+    {
+      "source": "ChangYu",
+      "relation": "related_to",
+      "target": "WangFu"
+    },
+    {
+      "source": "ral",
+      "relation": "related_to",
+      "target": "sensing"
+    },
+    {
+      "source": "WangZJ",
+      "relation": "related_to",
+      "target": "WuQD"
+    },
+    {
+      "source": "WangZJ",
+      "relation": "related_to",
+      "target": "ChaiTY.Optimal"
+    },
+    {
+      "source": "WangZJ",
+      "relation": "related_to",
+      "target": "settingcontrolfor"
+    },
+    {
+      "source": "WangZJ",
+      "relation": "related_to",
+      "target": "Northeastern"
+    },
+    {
+      "source": "WangZJ",
+      "relation": "related_to",
+      "target": "study"
+    },
+    {
+      "source": "ControlEngineeringPractice,2004,12",
+      "relation": "related_to",
+      "target": "Nonlinear"
+    },
+    {
+      "source": "ControlEngineeringPractice,2004,12",
+      "relation": "related_to",
+      "target": "adaptive"
+    },
+    {
+      "source": "XieMing",
+      "relation": "related_to",
+      "target": "PengXiao"
+    },
+    {
+      "source": "Tao",
+      "relation": "related_to",
+      "target": "Jie"
+    },
+    {
+      "source": "rithm",
+      "relation": "related_to",
+      "target": "burden"
+    },
+    {
+      "source": "ofSystemSimulation,2008,20",
+      "relation": "related_to",
+      "target": "2155(inChinese"
+    },
+    {
+      "source": "Xie",
+      "relation": "related_to",
+      "target": "Peng"
+    },
+    {
+      "source": "Xie",
+      "relation": "related_to",
+      "target": "In-"
+    },
+    {
+      "source": "Soci-",
+      "relation": "related_to",
+      "target": "etyofChina,2007,17"
+    },
+    {
+      "source": "Soci-",
+      "relation": "related_to",
+      "target": "processofaluminasinteringproduction"
+    },
+    {
+      "source": "YanAi",
+      "relation": "related_to",
+      "target": "You"
+    },
+    {
+      "source": "YanAi",
+      "relation": "related_to",
+      "target": "YueHeng"
+    },
+    {
+      "source": "YanAi",
+      "relation": "related_to",
+      "target": "Multivariableintel-"
+    },
+    {
+      "source": "YanAi",
+      "relation": "related_to",
+      "target": "ligentoptimizingcontrolapproachforshaftfurnaceroasting"
+    },
+    {
+      "source": "GUI",
+      "relation": "related_to",
+      "target": "Professor"
+    },
+    {
+      "source": "GUI",
+      "relation": "related_to",
+      "target": "SouthUniversity"
+    },
+    {
+      "source": "Yong-",
+      "relation": "related_to",
+      "target": "robust"
+    },
+    {
+      "source": "Yong-",
+      "relation": "related_to",
+      "target": "Song"
+    },
+    {
+      "source": "Yong-",
+      "relation": "related_to",
+      "target": "Hai"
+    },
+    {
+      "source": "Yong-",
+      "relation": "related_to",
+      "target": "Ying"
+    },
+    {
+      "source": "mail",
+      "relation": "related_to",
+      "target": "gwh@mail.csu.edu.cn"
+    },
+    {
+      "source": "Shu",
+      "relation": "related_to",
+      "target": "Ning"
+    },
+    {
+      "source": "Shu",
+      "relation": "related_to",
+      "target": "Qiang"
+    },
+    {
+      "source": "Shu",
+      "relation": "related_to",
+      "target": "Kuo"
+    },
+    {
+      "source": "HuaYANG",
+      "relation": "related_to",
+      "target": "ProfessoratCentral"
+    },
+    {
+      "source": "HuaYANG",
+      "relation": "related_to",
+      "target": "ofNortheasternUniversity(NaturalScience"
+    },
+    {
+      "source": "Herresearchinterestcov-",
+      "relation": "related_to",
+      "target": "11(inChinese"
+    },
+    {
+      "source": "KongLS",
+      "relation": "related_to",
+      "target": "WangYL.Modelingand"
+    },
+    {
+      "source": "KongLS",
+      "relation": "related_to",
+      "target": "settingcontrolofblendingprocessinametallurgi-"
+    },
+    {
+      "source": "Chemical",
+      "relation": "related_to",
+      "target": "ofthispaper"
+    },
+    {
+      "source": "Ling",
+      "relation": "related_to",
+      "target": "Yun"
+    },
+    {
+      "source": "Ling",
+      "relation": "related_to",
+      "target": "ChenYong"
+    },
+    {
+      "source": "Scientific",
+      "relation": "related_to",
+      "target": "Instrument"
+    },
+    {
+      "source": "Scientific",
+      "relation": "related_to",
+      "target": "CHEN"
+    },
+    {
+      "source": "Scientific",
+      "relation": "related_to",
+      "target": "Associate"
+    },
+    {
+      "source": "Scientific",
+      "relation": "related_to",
+      "target": "professor"
+    },
+    {
+      "source": "ZhouXJ",
+      "relation": "related_to",
+      "target": "GuiWH.Statetransitionalgorithm"
+    },
+    {
+      "source": "searchinterestisoptimalcontrolofcomplex",
+      "relation": "related_to",
+      "target": "JournalofIndustrialandManagementOptimization,2012"
+    },
+    {
+      "source": "ChaiQQ",
+      "relation": "related_to",
+      "target": "GuiWH.Optimalcontrolof"
+    },
+    {
+      "source": "Practice",
+      "relation": "related_to",
+      "target": "Nascimento"
+    },
+    {
+      "source": "Practice",
+      "relation": "related_to",
+      "target": "Giudici"
+    },
+    {
+      "source": "Practice",
+      "relation": "related_to",
+      "target": "Guardani"
+    },
+    {
+      "source": "Practice",
+      "relation": "related_to",
+      "target": "Neural"
+    },
+    {
+      "source": "Practice",
+      "relation": "related_to",
+      "target": "net-"
+    },
+    {
+      "source": "Practice",
+      "relation": "related_to",
+      "target": "approach"
+    },
+    {
+      "source": "Practice",
+      "relation": "related_to",
+      "target": "chemi-"
+    },
+    {
+      "source": "Practice",
+      "relation": "related_to",
+      "target": "WANG"
+    },
+    {
+      "source": "ers",
+      "relation": "related_to",
+      "target": "complexindustrialprocesses"
+    },
+    {
+      "source": "Liu",
+      "relation": "related_to",
+      "target": "Dong"
+    },
+    {
+      "source": "Liu",
+      "relation": "related_to",
+      "target": "Optimization"
+    },
+    {
+      "source": "Liu",
+      "relation": "related_to",
+      "target": "ylwang@mail.csu.edu.cn"
+    },
+    {
+      "source": "Liu",
+      "relation": "related_to",
+      "target": "treatment"
+    },
+    {
+      "source": "Liu",
+      "relation": "related_to",
+      "target": "frame"
+    },
+    {
+      "source": "Liu",
+      "relation": "related_to",
+      "target": "nique"
+    },
+    {
+      "source": "MaterialsLetters,2005,59",
+      "relation": "related_to",
+      "target": "ChenXF"
+    },
+    {
+      "source": "MaterialsLetters,2005,59",
+      "relation": "related_to",
+      "target": "WangYL"
+    },
+    {
+      "source": "MaterialsLetters,2005,59",
+      "relation": "related_to",
+      "target": "CenLH.Multi"
+    },
+    {
+      "source": "MaterialsLetters,2005,59",
+      "relation": "related_to",
+      "target": "timal"
+    }
+  ]
+}
