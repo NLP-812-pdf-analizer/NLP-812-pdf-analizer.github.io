@@ -36,14 +36,36 @@
                     // Преобразуем ответ в формат JSON
                     return response.json();
                 })
-                .then(function(data) {
+                .then(graphData => {
+					const nodesSet = new Set();
+					const elements = [];
+
+					graphData.graph.forEach(edge => {
+						nodesSet.add(edge.source);
+						nodesSet.add(edge.target);
+						elements.push({
+							data: {
+								id: edge.source + "-" + edge.target,
+								source: edge.source,
+								target: edge.target,
+								label: edge.relation
+							}
+						});
+					});
+
+					nodesSet.forEach(node => {
+						elements.push({
+						data: { id: node, label: node }
+						});
+					});
                     // Инициализация Cytoscape.js после загрузки данных
                     const cy = cytoscape({
                         // Контейнер для отображения графа
                         container: document.getElementById('cy'),
                         
                         // Загружаем данные из JSON-файла
-                        elements: data.elements,
+                        //elements: data.elements,
+                        elements: elements,
                         
                         // Настройки стиля для узлов и рёбер
                         style: [
@@ -51,7 +73,7 @@
                                 selector: 'node',
                                 style: {
                                     'background-color': '#666',
-                                    'label': 'data(label)', // Отображаем текст из свойства 'label' узла
+                                    'label': 'functional_graph(label)', // Отображаем текст из свойства 'label' узла
                                     'text-valign': 'center',
                                     'color': 'white',
                                     'text-outline-width': 2,
@@ -65,7 +87,7 @@
                                     'line-color': '#ccc',
                                     'target-arrow-color': '#ccc',
                                     'target-arrow-shape': 'triangle',
-                                    'label': 'data(label)', // Отображаем текст из свойства 'label' ребра
+                                    'label': 'functional_graph(label)', // Отображаем текст из свойства 'label' ребра
                                     'font-size': '10px',
                                     'text-background-opacity': 1,
                                     'text-background-color': '#fff',
