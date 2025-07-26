@@ -1,0 +1,1274 @@
+{
+  "graph": [
+    {
+      "source": "Abstract",
+      "relation": "include",
+      "target": "shortage"
+    },
+    {
+      "source": "Themodelingandoptimizationarekeytechniquesextensivelyusedtosaveenergy",
+      "relation": "reduce",
+      "target": "consumptionandemissionsinthenonferrousmetallurgicalprocesses"
+    },
+    {
+      "source": "cal",
+      "relation": "develop",
+      "target": "past"
+    },
+    {
+      "source": "cal",
+      "relation": "develop_over",
+      "target": "decades"
+    },
+    {
+      "source": "China",
+      "relation": "rank",
+      "target": "tains"
+    },
+    {
+      "source": "equipment",
+      "relation": "improve",
+      "target": "Thesemodelingandoptimizationproblemspreventtheex-"
+    },
+    {
+      "source": "equipment",
+      "relation": "improve_compared",
+      "target": "withadvancedforeignenterprises"
+    },
+    {
+      "source": "Forexample",
+      "relation": "consider",
+      "target": "issues"
+    },
+    {
+      "source": "timization",
+      "relation": "limit",
+      "target": "improvements"
+    },
+    {
+      "source": "coexistence",
+      "relation": "involve",
+      "target": "coexistence"
+    },
+    {
+      "source": "condition",
+      "relation": "sente",
+      "target": "large"
+    },
+    {
+      "source": "condition",
+      "relation": "sente_for",
+      "target": "electrolysis"
+    },
+    {
+      "source": "transition",
+      "relation": "involve",
+      "target": "StationoftheMinistryofEducation(20110162130011,201001621200"
+    },
+    {
+      "source": "solution",
+      "relation": "base",
+      "target": "solution"
+    },
+    {
+      "source": "solution",
+      "relation": "base_on",
+      "target": "solution"
+    },
+    {
+      "source": "continuous",
+      "relation": "build",
+      "target": "analysis"
+    },
+    {
+      "source": "continuous",
+      "relation": "build_in",
+      "target": "analysis"
+    },
+    {
+      "source": "continuous",
+      "relation": "build_in",
+      "target": "analysis"
+    },
+    {
+      "source": "continuous",
+      "relation": "build_in",
+      "target": "analysis"
+    },
+    {
+      "source": "zinchydrometallurgicalprocesswasproposedin[14",
+      "relation": "reflect",
+      "target": "law"
+    },
+    {
+      "source": "followingassumptions",
+      "relation": "focus",
+      "target": "mechanistic"
+    },
+    {
+      "source": "followingassumptions",
+      "relation": "focus_on",
+      "target": "mechanistic"
+    },
+    {
+      "source": "followingassumptions",
+      "relation": "focus",
+      "target": "concentration"
+    },
+    {
+      "source": "teams",
+      "relation": "focus",
+      "target": "mechanistic"
+    },
+    {
+      "source": "teams",
+      "relation": "focus_on",
+      "target": "mechanistic"
+    },
+    {
+      "source": "teams",
+      "relation": "focus",
+      "target": "concentration"
+    },
+    {
+      "source": "Laboratory",
+      "relation": "distribute",
+      "target": "Helsinki"
+    },
+    {
+      "source": "eters",
+      "relation": "adjust",
+      "target": "index"
+    },
+    {
+      "source": "eters",
+      "relation": "adjust_in",
+      "target": "index"
+    },
+    {
+      "source": "stability",
+      "relation": "design",
+      "target": "single"
+    },
+    {
+      "source": "stability",
+      "relation": "design_for",
+      "target": "reac-"
+    },
+    {
+      "source": "stability",
+      "relation": "design_for",
+      "target": "reac-"
+    },
+    {
+      "source": "stability",
+      "relation": "design_for",
+      "target": "reac-"
+    },
+    {
+      "source": "stability",
+      "relation": "design",
+      "target": "Stellenbosch"
+    },
+    {
+      "source": "stability",
+      "relation": "design_from",
+      "target": "Stellenbosch"
+    },
+    {
+      "source": "full",
+      "relation": "take",
+      "target": "advantage"
+    },
+    {
+      "source": "equilibrium",
+      "relation": "have",
+      "target": "limitations"
+    },
+    {
+      "source": "equilibrium",
+      "relation": "have",
+      "target": "nonlinear"
+    },
+    {
+      "source": "equilibrium",
+      "relation": "have_with",
+      "target": "formance"
+    },
+    {
+      "source": "equilibrium",
+      "relation": "have",
+      "target": "processing"
+    },
+    {
+      "source": "iden-",
+      "relation": "use",
+      "target": "iden-"
+    },
+    {
+      "source": "iden-",
+      "relation": "use_for",
+      "target": "iden-"
+    },
+    {
+      "source": "elements",
+      "relation": "manyintelligentintegratedmodelshavebeen",
+      "target": "output"
+    },
+    {
+      "source": "networks",
+      "relation": "integrate",
+      "target": "model[26"
+    },
+    {
+      "source": "variable",
+      "relation": "represent",
+      "target": "grated"
+    },
+    {
+      "source": "subsection",
+      "relation": "investigate",
+      "target": "undividable"
+    },
+    {
+      "source": "real",
+      "relation": "verify",
+      "target": "real"
+    },
+    {
+      "source": "real",
+      "relation": "verify_through",
+      "target": "real"
+    },
+    {
+      "source": "slurry",
+      "relation": "batch",
+      "target": "slurry"
+    },
+    {
+      "source": "Itcon-",
+      "relation": "summarize",
+      "target": "sistsofamechanismmodelbasedonmaterialbalanceanda"
+    },
+    {
+      "source": "theintegratedmodel",
+      "relation": "apply",
+      "target": "subordinate"
+    },
+    {
+      "source": "theintegratedmodel",
+      "relation": "apply_to",
+      "target": "subordinate"
+    },
+    {
+      "source": "oneisaprinciplemodelandanother",
+      "relation": "apply",
+      "target": "subordinate"
+    },
+    {
+      "source": "oneisaprinciplemodelandanother",
+      "relation": "apply_to",
+      "target": "subordinate"
+    },
+    {
+      "source": "online",
+      "relation": "use",
+      "target": "online"
+    },
+    {
+      "source": "online",
+      "relation": "use_to",
+      "target": "online"
+    },
+    {
+      "source": "weight",
+      "relation": "depend",
+      "target": "weight"
+    },
+    {
+      "source": "weight",
+      "relation": "depend_on",
+      "target": "coefficients"
+    },
+    {
+      "source": "put",
+      "relation": "regard",
+      "target": "put"
+    },
+    {
+      "source": "put",
+      "relation": "regard_as",
+      "target": "put"
+    },
+    {
+      "source": "acteristic",
+      "relation": "introduce",
+      "target": "acteristic"
+    },
+    {
+      "source": "acteristic",
+      "relation": "introduce",
+      "target": "concept"
+    },
+    {
+      "source": "acteristic",
+      "relation": "introduce_In",
+      "target": "concept"
+    },
+    {
+      "source": "ability",
+      "relation": "aim",
+      "target": "situations"
+    },
+    {
+      "source": "ability",
+      "relation": "aim",
+      "target": "situations"
+    },
+    {
+      "source": "original",
+      "relation": "integrate",
+      "target": "original"
+    },
+    {
+      "source": "original",
+      "relation": "integrate_with",
+      "target": "intelligentmodelsbasedonprocessdataandknowledgeare"
+    },
+    {
+      "source": "der",
+      "relation": "anintelligentintegrate",
+      "target": "grade"
+    },
+    {
+      "source": "method[30",
+      "relation": "show",
+      "target": "Fig.2"
+    },
+    {
+      "source": "method[30",
+      "relation": "show_in",
+      "target": "Fig.2"
+    },
+    {
+      "source": "multivariable",
+      "relation": "detect",
+      "target": "handicap"
+    },
+    {
+      "source": "multivariable",
+      "relation": "detect_as",
+      "target": "handicap"
+    },
+    {
+      "source": "recurrent",
+      "relation": "base",
+      "target": "dynamicmodelfortheslagmakingS1periodofPScopper"
+    },
+    {
+      "source": "recurrent",
+      "relation": "base",
+      "target": "dynamicmodelfortheslagmakingS1periodofPScopper"
+    },
+    {
+      "source": "recurrent",
+      "relation": "base_on",
+      "target": "dynamicmodelfortheslagmakingS1periodofPScopper"
+    },
+    {
+      "source": "ligent",
+      "relation": "design",
+      "target": "ligent"
+    },
+    {
+      "source": "emission",
+      "relation": "include",
+      "target": "levels"
+    },
+    {
+      "source": "emission",
+      "relation": "include",
+      "target": "mization"
+    },
+    {
+      "source": "product",
+      "relation": "take",
+      "target": "product"
+    },
+    {
+      "source": "guidance",
+      "relation": "provide",
+      "target": "guidance"
+    },
+    {
+      "source": "Theintelligentintegratedpredictivemodelbasedonmulti",
+      "relation": "achieve",
+      "target": "spec-"
+    },
+    {
+      "source": "Theintelligentintegratedpredictivemodelbasedonmulti",
+      "relation": "achieve_through",
+      "target": "scheduling"
+    },
+    {
+      "source": "running",
+      "relation": "ifie",
+      "target": "operations"
+    },
+    {
+      "source": "blind",
+      "relation": "lead",
+      "target": "blind"
+    },
+    {
+      "source": "quantity",
+      "relation": "mean",
+      "target": "quantity"
+    },
+    {
+      "source": "quantity",
+      "relation": "have",
+      "target": "waste"
+    },
+    {
+      "source": "points",
+      "relation": "have",
+      "target": "waste"
+    },
+    {
+      "source": "problem",
+      "relation": "el",
+      "target": "problem"
+    },
+    {
+      "source": "problem",
+      "relation": "el_for",
+      "target": "problem"
+    },
+    {
+      "source": "problem",
+      "relation": "el",
+      "target": "problem"
+    },
+    {
+      "source": "problem",
+      "relation": "construct",
+      "target": "alumina"
+    },
+    {
+      "source": "alumina",
+      "relation": "obtain",
+      "target": "patterns"
+    },
+    {
+      "source": "alumina",
+      "relation": "obtain_through",
+      "target": "term"
+    },
+    {
+      "source": "alumina",
+      "relation": "obtain",
+      "target": "operators"
+    },
+    {
+      "source": "patterns",
+      "relation": "obtain",
+      "target": "patterns"
+    },
+    {
+      "source": "patterns",
+      "relation": "obtain_through",
+      "target": "term"
+    },
+    {
+      "source": "patterns",
+      "relation": "obtain",
+      "target": "operators"
+    },
+    {
+      "source": "operators",
+      "relation": "make",
+      "target": "tering"
+    },
+    {
+      "source": "operators",
+      "relation": "make",
+      "target": "decisions"
+    },
+    {
+      "source": "decentralizedcontrolsystemsandindustrialnetworks",
+      "relation": "include",
+      "target": "descent"
+    },
+    {
+      "source": "parametersareusedtoformanoperationalpatternofnon-",
+      "relation": "depend",
+      "target": "accurate"
+    },
+    {
+      "source": "stateparameters",
+      "relation": "operationparametersandprocessindexe",
+      "target": "heuristic"
+    },
+    {
+      "source": "heuristic",
+      "relation": "reason",
+      "target": "Theyare"
+    },
+    {
+      "source": "drivenop-",
+      "relation": "have",
+      "target": "flexibility"
+    },
+    {
+      "source": "Itmainly",
+      "relation": "include",
+      "target": "requirement"
+    },
+    {
+      "source": "with-",
+      "relation": "include",
+      "target": "requirement"
+    },
+    {
+      "source": "experiences",
+      "relation": "derive",
+      "target": "tic"
+    },
+    {
+      "source": "experiences",
+      "relation": "derive_through",
+      "target": "tic"
+    },
+    {
+      "source": "tic",
+      "relation": "derive",
+      "target": "tic"
+    },
+    {
+      "source": "tic",
+      "relation": "derive_through",
+      "target": "tic"
+    },
+    {
+      "source": "goal",
+      "relation": "method",
+      "target": "Satisfactory"
+    },
+    {
+      "source": "ified",
+      "relation": "present",
+      "target": "features"
+    },
+    {
+      "source": "features",
+      "relation": "lemsintheprocessesoffusedmagnesiasmelte",
+      "target": "circuits"
+    },
+    {
+      "source": "ferrousmetallurgicalprocesses",
+      "relation": "control",
+      "target": "ferrousmetallurgicalprocesses"
+    },
+    {
+      "source": "ferrousmetallurgicalprocesses",
+      "relation": "control",
+      "target": "ferrousmetallurgicalprocesses"
+    },
+    {
+      "source": "suchascasereasoning",
+      "relation": "conflict",
+      "target": "suchascasereasoning"
+    },
+    {
+      "source": "suchascasereasoning",
+      "relation": "conflict_with",
+      "target": "suchascasereasoning"
+    },
+    {
+      "source": "self",
+      "relation": "arise",
+      "target": "hybrid"
+    },
+    {
+      "source": "self",
+      "relation": "arise_from",
+      "target": "hybrid"
+    },
+    {
+      "source": "self",
+      "relation": "arise",
+      "target": "cess"
+    },
+    {
+      "source": "hybrid",
+      "relation": "arise",
+      "target": "hybrid"
+    },
+    {
+      "source": "hybrid",
+      "relation": "arise_from",
+      "target": "hybrid"
+    },
+    {
+      "source": "hybrid",
+      "relation": "arise",
+      "target": "cess"
+    },
+    {
+      "source": "ment",
+      "relation": "propose",
+      "target": "ment"
+    },
+    {
+      "source": "ment",
+      "relation": "propose_for",
+      "target": "opera-"
+    },
+    {
+      "source": "Sincetheboundaryconstraintsarenotverystrict",
+      "relation": "modify",
+      "target": "value"
+    },
+    {
+      "source": "value",
+      "relation": "modify",
+      "target": "value"
+    },
+    {
+      "source": "final",
+      "relation": "meet",
+      "target": "re-"
+    },
+    {
+      "source": "sit-",
+      "relation": "set",
+      "target": "sit-"
+    },
+    {
+      "source": "blecompositionoforesourcessuppliedtotheprocess",
+      "relation": "=",
+      "target": "blecompositionoforesourcessuppliedtotheprocess"
+    },
+    {
+      "source": "composition",
+      "relation": "convert",
+      "target": "equation"
+    },
+    {
+      "source": "composition",
+      "relation": "convert_to",
+      "target": "equation"
+    },
+    {
+      "source": "Toimprovethequalityofrawslurry",
+      "relation": "fly",
+      "target": "Toimprovethequalityofrawslurry"
+    },
+    {
+      "source": "Toimprovethequalityofrawslurry",
+      "relation": "fly_into",
+      "target": "Toimprovethequalityofrawslurry"
+    },
+    {
+      "source": "method[46",
+      "relation": "develop",
+      "target": "Fig.5"
+    },
+    {
+      "source": "method[46",
+      "relation": "develop_to",
+      "target": "Fig.5"
+    },
+    {
+      "source": "satisfied",
+      "relation": "sort",
+      "target": "mixingoperation"
+    },
+    {
+      "source": "satisfied",
+      "relation": "sort_in",
+      "target": "mixingoperation"
+    },
+    {
+      "source": "satisfied",
+      "relation": "sort_in",
+      "target": "mixingoperation"
+    },
+    {
+      "source": "satisfied",
+      "relation": "sort_in",
+      "target": "mixingoperation"
+    },
+    {
+      "source": "updating",
+      "relation": "apply",
+      "target": "enterprise"
+    },
+    {
+      "source": "updating",
+      "relation": "apply_to",
+      "target": "enterprise"
+    },
+    {
+      "source": "enterprise",
+      "relation": "enhance",
+      "target": "batching"
+    },
+    {
+      "source": "satisfaction",
+      "relation": "propose",
+      "target": "Thenon"
+    },
+    {
+      "source": "satisfaction",
+      "relation": "propose_for",
+      "target": "ferrousmetallurgicalprocessisalongprocedure"
+    },
+    {
+      "source": "gical",
+      "relation": "propose",
+      "target": "gical"
+    },
+    {
+      "source": "gical",
+      "relation": "propose_in",
+      "target": "gical"
+    },
+    {
+      "source": "Intelligentoptimizationarchitectureofrawslurryblendingprocess",
+      "relation": "combine",
+      "target": "Intelligentoptimizationarchitectureofrawslurryblendingprocess"
+    },
+    {
+      "source": "fier",
+      "relation": "obtain",
+      "target": "fier"
+    },
+    {
+      "source": "better",
+      "relation": "achieve",
+      "target": "better"
+    },
+    {
+      "source": "tanks",
+      "relation": "describe",
+      "target": "tanks"
+    },
+    {
+      "source": "tanks",
+      "relation": "describe_as",
+      "target": "find"
+    },
+    {
+      "source": "means",
+      "relation": "solve",
+      "target": "means"
+    },
+    {
+      "source": "cost",
+      "relation": "reduce",
+      "target": "cost"
+    },
+    {
+      "source": "times",
+      "relation": "reduce",
+      "target": "Thearchitectureofthecomprehensiveoptimalcontrolof"
+    },
+    {
+      "source": "times",
+      "relation": "reduce_from",
+      "target": "Thearchitectureofthecomprehensiveoptimalcontrolof"
+    },
+    {
+      "source": "times",
+      "relation": "reduce",
+      "target": "Thearchitectureofthecomprehensiveoptimalcontrolof"
+    },
+    {
+      "source": "times",
+      "relation": "reduce_to",
+      "target": "Thearchitectureofthecomprehensiveoptimalcontrolof"
+    },
+    {
+      "source": "Fig.6",
+      "relation": "show",
+      "target": "Fig.6"
+    },
+    {
+      "source": "Fig.6",
+      "relation": "show_in",
+      "target": "Fig.6"
+    },
+    {
+      "source": "great",
+      "relation": "draw",
+      "target": "attention"
+    },
+    {
+      "source": "great",
+      "relation": "draw",
+      "target": "attention"
+    },
+    {
+      "source": "great",
+      "relation": "draw_in",
+      "target": "enterprises"
+    },
+    {
+      "source": "RTln(1.1",
+      "relation": "include",
+      "target": "preparation"
+    },
+    {
+      "source": "cid:35)(cid:193",
+      "relation": "precipitate",
+      "target": "cid:35)(cid:193"
+    },
+    {
+      "source": "absolute",
+      "relation": "c",
+      "target": "absolute"
+    },
+    {
+      "source": "absolute",
+      "relation": "c",
+      "target": "absolute"
+    },
+    {
+      "source": "absolute",
+      "relation": "c_through",
+      "target": "absolute"
+    },
+    {
+      "source": "absolute",
+      "relation": "c",
+      "target": "absolute"
+    },
+    {
+      "source": "absolute",
+      "relation": "c",
+      "target": "absolute"
+    },
+    {
+      "source": "absolute",
+      "relation": "c_through",
+      "target": "absolute"
+    },
+    {
+      "source": "andb",
+      "relation": "obtain",
+      "target": "elec-"
+    },
+    {
+      "source": "trolytic",
+      "relation": "adopt",
+      "target": "trolytic"
+    },
+    {
+      "source": "trolytic",
+      "relation": "adopt_to",
+      "target": "trolytic"
+    },
+    {
+      "source": "trolytic",
+      "relation": "achieve",
+      "target": "conditionsandcannotbecalculatedbasedonelectrochem-"
+    },
+    {
+      "source": "trolytic",
+      "relation": "achieve",
+      "target": "conditionsandcannotbecalculatedbasedonelectrochem-"
+    },
+    {
+      "source": "conditional",
+      "relation": "identify",
+      "target": "conditional"
+    },
+    {
+      "source": "conditional",
+      "relation": "identify_through",
+      "target": "conditional"
+    },
+    {
+      "source": "conditional",
+      "relation": "tem-",
+      "target": "perature"
+    },
+    {
+      "source": "less",
+      "relation": "meet",
+      "target": "3)Optimaloperationofelectrolyticrectifierunitoriented"
+    },
+    {
+      "source": "loadresultsinagreatfluctuationoftheDCloadduringzinc",
+      "relation": "determine",
+      "target": "electrolyticprocess"
+    },
+    {
+      "source": "loadresultsinagreatfluctuationoftheDCloadduringzinc",
+      "relation": "determine_according",
+      "target": "electrolyticprocess"
+    },
+    {
+      "source": "Theproposedcomprehensiveoptimalcontrolsystemhas",
+      "relation": "apply",
+      "target": "s.t"
+    },
+    {
+      "source": "Theproposedcomprehensiveoptimalcontrolsystemhas",
+      "relation": "apply_to",
+      "target": "s.t"
+    },
+    {
+      "source": "Theproposedcomprehensiveoptimalcontrolsystemhas",
+      "relation": "apply",
+      "target": "s.t"
+    },
+    {
+      "source": "Theproposedcomprehensiveoptimalcontrolsystemhas",
+      "relation": "apply_to",
+      "target": "s.t"
+    },
+    {
+      "source": "capacity",
+      "relation": "line",
+      "target": "capacity"
+    },
+    {
+      "source": "capacity",
+      "relation": "line_with",
+      "target": "capacity"
+    },
+    {
+      "source": "Inthesystem",
+      "relation": "cid:88)n",
+      "target": "ditions"
+    },
+    {
+      "source": "Inthesystem",
+      "relation": "cid:88)n",
+      "target": "ditions"
+    },
+    {
+      "source": "3011.6kWh",
+      "relation": "reduce",
+      "target": "3011.6kWh"
+    },
+    {
+      "source": "3011.6kWh",
+      "relation": "reduce_to",
+      "target": "3011.6kWh"
+    },
+    {
+      "source": "3011.6kWh",
+      "relation": "reach",
+      "target": "3011.6kWh"
+    },
+    {
+      "source": "3011.6kWh",
+      "relation": "reach",
+      "target": "3011.6kWh"
+    },
+    {
+      "source": "40000000kWh",
+      "relation": "improve",
+      "target": "40000000kWh"
+    },
+    {
+      "source": "40000000kWh",
+      "relation": "improve_to",
+      "target": "40000000kWh"
+    },
+    {
+      "source": "40000000kWh",
+      "relation": "save",
+      "target": "enter-"
+    },
+    {
+      "source": "40000000kWh",
+      "relation": "save_for",
+      "target": "enter-"
+    },
+    {
+      "source": "prise",
+      "relation": "element",
+      "target": "New"
+    },
+    {
+      "source": "prise",
+      "relation": "element",
+      "target": "New"
+    },
+    {
+      "source": "allocation",
+      "relation": "distribute",
+      "target": "worth"
+    },
+    {
+      "source": "tionship",
+      "relation": "rela-",
+      "target": "tionship"
+    },
+    {
+      "source": "tionship",
+      "relation": "rela-_with",
+      "target": "tionship"
+    },
+    {
+      "source": "tionship",
+      "relation": "become",
+      "target": "trends"
+    },
+    {
+      "source": "work",
+      "relation": "study",
+      "target": "cor-"
+    },
+    {
+      "source": "work",
+      "relation": "study",
+      "target": "rection"
+    },
+    {
+      "source": "Themethodincludesdetectingthesteady",
+      "relation": "model",
+      "target": "stateofthepro-"
+    },
+    {
+      "source": "Themethodincludesdetectingthesteady",
+      "relation": "model_with",
+      "target": "whetherthesampledataisreliabletobeusedforthemodel"
+    },
+    {
+      "source": "mass",
+      "relation": "involve",
+      "target": "mass"
+    },
+    {
+      "source": "equality",
+      "relation": "present",
+      "target": "equality"
+    },
+    {
+      "source": "equality",
+      "relation": "present_in",
+      "target": "equality"
+    },
+    {
+      "source": "feasible",
+      "relation": "describe",
+      "target": "domain"
+    },
+    {
+      "source": "interconnection",
+      "relation": "represent",
+      "target": "internal"
+    },
+    {
+      "source": "feature",
+      "relation": "become",
+      "target": "serious"
+    },
+    {
+      "source": "Butcommonlyusedoptimalcon-",
+      "relation": "have",
+      "target": "expression"
+    },
+    {
+      "source": "trol",
+      "relation": "design",
+      "target": "finite"
+    },
+    {
+      "source": "trol",
+      "relation": "design_for",
+      "target": "onlyinvolvessomestatevariableswhiletheoperatingvari-"
+    },
+    {
+      "source": "challenging",
+      "relation": "contain",
+      "target": "Inappropriatesensorallocationnotonlyresultsinhugecost"
+    },
+    {
+      "source": "Forthesecomplexities",
+      "relation": "influence",
+      "target": "distribu-"
+    },
+    {
+      "source": "trolandOptimizationofComplexNonferrousMetallurgical",
+      "relation": "conform",
+      "target": "beinvestigatedto"
+    },
+    {
+      "source": "SciencePress,2010(inChinese",
+      "relation": "get",
+      "target": "SciencePress,2010(inChinese"
+    },
+    {
+      "source": "Journal",
+      "relation": "have",
+      "target": "KomulainenT"
+    },
+    {
+      "source": "Journal",
+      "relation": "have",
+      "target": "KomulainenT"
+    },
+    {
+      "source": "Journal",
+      "relation": "have",
+      "target": "KomulainenT"
+    },
+    {
+      "source": "Journal",
+      "relation": "have",
+      "target": "-JounelaSL"
+    },
+    {
+      "source": "KomulainenT",
+      "relation": "have",
+      "target": "KomulainenT"
+    },
+    {
+      "source": "KomulainenT",
+      "relation": "have",
+      "target": "KomulainenT"
+    },
+    {
+      "source": "KomulainenT",
+      "relation": "have",
+      "target": "KomulainenT"
+    },
+    {
+      "source": "KomulainenT",
+      "relation": "have",
+      "target": "-JounelaSL"
+    },
+    {
+      "source": "Hydrometallurgy,2006,81",
+      "relation": "sult",
+      "target": "external"
+    },
+    {
+      "source": "Hydrometallurgy,2006,81",
+      "relation": "sult_in",
+      "target": "external"
+    },
+    {
+      "source": "InternationalJournalofMineral",
+      "relation": "objective",
+      "target": "Measurement"
+    },
+    {
+      "source": "Measurement",
+      "relation": "clude",
+      "target": "reduction"
+    },
+    {
+      "source": "Gang",
+      "relation": "Jian-",
+      "target": "place"
+    },
+    {
+      "source": "Gang",
+      "relation": "Jian-",
+      "target": "Jun"
+    },
+    {
+      "source": "Sinica,2009,35",
+      "relation": "troll",
+      "target": "limited"
+    },
+    {
+      "source": "Sinica,2009,35",
+      "relation": "troll_through",
+      "target": "limited"
+    },
+    {
+      "source": "building",
+      "relation": "include",
+      "target": "calEngineeringJournal,2008,139"
+    },
+    {
+      "source": "building",
+      "relation": "include",
+      "target": "calEngineeringJournal,2008,139"
+    },
+    {
+      "source": "niques",
+      "relation": "cause",
+      "target": "culties"
+    },
+    {
+      "source": "software",
+      "relation": "produce",
+      "target": "performances"
+    },
+    {
+      "source": "skaR",
+      "relation": "enrich",
+      "target": "enzymatic"
+    },
+    {
+      "source": "vanCanHJL.Fuzzymodel-",
+      "relation": "enrich",
+      "target": "enzymatic"
+    },
+    {
+      "source": "Ap-",
+      "relation": "promote",
+      "target": "Ap-"
+    },
+    {
+      "source": "Liau",
+      "relation": "contribute",
+      "target": "environment"
+    },
+    {
+      "source": "Liau",
+      "relation": "contribute_to",
+      "target": "crude"
+    },
+    {
+      "source": "Liau",
+      "relation": "contribute",
+      "target": "distillation"
+    },
+    {
+      "source": "Control,2012,22",
+      "relation": "support",
+      "target": "regression"
+    },
+    {
+      "source": "rithm",
+      "relation": "algo-",
+      "target": "rithm"
+    },
+    {
+      "source": "Soci-",
+      "relation": "intelligentoptimizationsystemfortherawslurryprepare",
+      "target": "etyofChina,2007,17"
+    },
+    {
+      "source": "Soci-",
+      "relation": "intelligentoptimizationsystemfortherawslurryprepare",
+      "target": "processofaluminasinteringproduction"
+    },
+    {
+      "source": "YanAi",
+      "relation": "cationsofArtificialIntelligence,2009,22(4",
+      "target": "ligentoptimizingcontrolapproachforshaftfurnaceroasting"
+    },
+    {
+      "source": "Hisresearchinterestcov-",
+      "relation": "er",
+      "target": "Hisresearchinterestcov-"
+    },
+    {
+      "source": "Herresearchinterestcov-",
+      "relation": "ers",
+      "target": "KongLS"
+    }
+  ]
+}
