@@ -37,27 +37,27 @@
                     return response.json();
                 })
                 .then(graphData => {
-					const nodesSet = new Set();
-					const elements = [];
+			const nodesSet = new Set();
+			const elements = [];
 
-					graphData.graph.forEach(edge => {
-						nodesSet.add(edge.source);
-						nodesSet.add(edge.target);
-						elements.push({
-							data: {
-								id: edge.source + "-" + edge.target,
-								source: edge.source,
-								target: edge.target,
-								label: edge.relation
-							}
-						});
-					});
+			graphData.graph.forEach(edge => {
+				nodesSet.add(edge.source);
+				nodesSet.add(edge.target);
+				elements.push({
+					data: {
+						id: edge.source + "-" + edge.target,
+						source: edge.source,
+						target: edge.target,
+						label: edge.relation
+					}
+				});
+			});
 
-					nodesSet.forEach(node => {
-						elements.push({
-						data: { id: node, label: node }
-						});
-					});
+			nodesSet.forEach(node => {
+				elements.push({
+					data: { id: node, label: node }
+				});
+			});
                     // Инициализация Cytoscape.js после загрузки данных
                     const cy = cytoscape({
                         // Контейнер для отображения графа
